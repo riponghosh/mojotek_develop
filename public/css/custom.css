@@ -1,0 +1,15 @@
+.c-button {
+    color: #f55d4a !important;
+}
+.box--welcome {
+    background: #f55d4a !important;
+}
+a {
+    color: #f55d4a;
+}
+
+.button.welcome-button {
+	color: #f55d4a;
+    background: #fff !important;
+    border: solid 1px #fff !important;
+}
