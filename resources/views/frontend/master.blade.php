@@ -585,10 +585,11 @@ ga('send', 'pageview');
                   <li class="fusion-custom-menu-item fusion-menu-login-box">
                     <a href="my-account/index.html"><span class="menu-text">My Account<span class="fusion-caret"><i class="fusion-dropdown-indicator"></i></span></span></a>
                     <div class="fusion-custom-menu-item-contents">
-                      <form action="https://purehempbotanicals.com/wp-login.php" id="loginform" method="post" name="loginform">
-                        <p><input class="input-text" id="username" name="log" placeholder="Username" type="text" value=""></p>
-                        <p><input class="input-text" id="password" name="pwd" placeholder="Password" type="password" value=""></p>
-                        <p class="fusion-remember-checkbox"><label for="fusion-menu-login-box-rememberme"><input id="fusion-menu-login-box-rememberme" name="rememberme" type="checkbox" value="forever"> Remember Me</label></p><input name="fusion_woo_login_box" type="hidden" value="true">
+                      <form  action="{{ route('login') }}" id="loginform" method="post" name="loginform">
+                        {{ csrf_field() }}
+                        <p><input class="input-text" id="username" name="email" placeholder="email" type="text" value=""></p>
+                        <p><input class="input-text" id="password" name="password" placeholder="Password" type="password" value=""></p>
+                        <p class="fusion-remember-checkbox"><label for="fusion-menu-login-box-rememberme"><input id="fusion-menu-login-box-rememberme" name="remember" type="checkbox" value="forever"> Remember Me</label></p><input name="fusion_woo_login_box" type="hidden" value="true">
                         <p class="fusion-login-box-submit"><input class="button small default comment-submit" id="wp-submit" name="wp-submit" type="submit" value="Log In"><input name="redirect" type="hidden" value="https://www.google.com/"></p>
                       </form><a class="fusion-menu-login-box-register" href="my-account/index.html" title="Register">Register</a>
                     </div>
