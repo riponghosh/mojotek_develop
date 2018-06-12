@@ -641,121 +641,27 @@ ga('send', 'pageview');
                           </li>
                           @endforeach
                         </ul>
-                        <!-- <ul class="fusion-megamenu fusion-megamenu-row-2 fusion-megamenu-row-columns-3" style="width:50% !important;">
-                          <li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-5184 fusion-megamenu-submenu fusion-megamenu-columns-3 col-lg-4 col-md-4 col-sm-4" id="menu-item-5184">
-                            <div class='fusion-megamenu-title'>
-                              <a href="product-category/tea/index.html">Tea</a>
-                            </div>
-                            <div class="fusion-megamenu-widgets-container second-level-widget">
-                              <div class="widget widget_text" id="text-8">
-                                <div class="textwidget">
-                                  <div class="imageframe-align-center">
-                                    <div class="imageframe-liftup">
-                                      <span class="fusion-imageframe imageframe-none imageframe-6"><a class="fusion-no-lightbox" href="product-category/tea/index.html" target="_self"><img alt="" class="img-responsive" src="wp-content/uploads/2017/09/Hemptealicious_Category_Icon_V3_600x600.jpg"></a></span>
-                                    </div>
-                                  </div>
-                                </div>
-                              </div>
-                            </div>
-                          </li>
-                          <li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-159 fusion-megamenu-submenu fusion-megamenu-columns-3 col-lg-4 col-md-4 col-sm-4" id="menu-item-159">
-                            <div class='fusion-megamenu-title'>
-                              <a href="product-category/tincture/index.html">Tincture</a>
-                            </div>
-                            <div class="fusion-megamenu-widgets-container second-level-widget">
-                              <div class="widget widget_text" id="text-7">
-                                <div class="textwidget">
-                                  <div class="imageframe-align-center">
-                                    <div class="imageframe-liftup">
-                                      <span class="fusion-imageframe imageframe-none imageframe-7"><a class="fusion-no-lightbox" href="product-category/tincture/index.html" target="_self"><img class="img-responsive wp-image-21965" height="600" sizes="(max-width: 800px) 100vw, 1860px" src="wp-content/uploads/2018/03/Tinctures_Category_Icon_All_V2_600x600-1.jpg" srcset="https://purehempbotanicals.com/wp-content/uploads/2018/03/Tinctures_Category_Icon_All_V2_600x600-1-200x200.jpg 200w, https://purehempbotanicals.com/wp-content/uploads/2018/03/Tinctures_Category_Icon_All_V2_600x600-1-400x400.jpg 400w, https://purehempbotanicals.com/wp-content/uploads/2018/03/Tinctures_Category_Icon_All_V2_600x600-1.jpg 600w" width="600"></a></span>
-                                    </div>
-                                  </div>
-                                </div>
-                              </div>
-                            </div>
-                          </li>
-                          <li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-5324 fusion-megamenu-submenu fusion-megamenu-columns-3 col-lg-4 col-md-4 col-sm-4" id="menu-item-5324">
-                            <div class='fusion-megamenu-title'>
-                              <a href="product-category/vape/index.html">Vape</a>
-                            </div>
-                            <div class="fusion-megamenu-widgets-container second-level-widget">
-                              <div class="widget widget_text" id="text-9">
-                                <div class="textwidget">
-                                  <div class="imageframe-align-center">
-                                    <div class="imageframe-liftup">
-                                      <span class="fusion-imageframe imageframe-none imageframe-8"><a class="fusion-no-lightbox" href="product-category/vape/index.html" target="_self"><img alt="" class="img-responsive wp-image-18061 alignnone size-medium wp-image-18061" height="300" sizes="(max-width: 800px) 100vw, 1860px" src="wp-content/uploads/2017/12/Vapes_Category_Icon_V3.3-300x300.jpg" srcset="https://purehempbotanicals.com/wp-content/uploads/2017/12/Vapes_Category_Icon_V3.3-200x200.jpg 200w, https://purehempbotanicals.com/wp-content/uploads/2017/12/Vapes_Category_Icon_V3.3-400x400.jpg 400w, https://purehempbotanicals.com/wp-content/uploads/2017/12/Vapes_Category_Icon_V3.3.jpg 600w" width="300"></a></span>
-                                    </div>
-                                  </div>
-                                </div>
-                              </div>
-                            </div>
-                          </li>
-                        </ul> -->
+                        
                       </div>
                       <div style="clear:both;"></div>
                     </div>
                   </div>
                 </li>
-                <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-39" id="menu-item-39">
-                  <a href="lab-results/index.html" target="_blank"><span class="menu-text">Lab Results</span></a>
-                </li>
-                <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-38 fusion-dropdown-menu" id="menu-item-38">
-                  <a href="news/index.html"><span class="menu-text">News</span> <span class="fusion-caret"><i class="fusion-dropdown-indicator"></i></span></a>
-                  <ul class="sub-menu">
-                    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-42 fusion-dropdown-submenu" id="menu-item-42">
-                      <a href="news/blog/index.html"><span class="">Blog</span></a>
-                    </li>
-                    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-41 fusion-dropdown-submenu" id="menu-item-41">
-                      <a href="news/events/index.html"><span class="">Events</span></a>
-                    </li>
-                  </ul>
-                </li>
+                
                 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-37 fusion-dropdown-menu" id="menu-item-37">
-                  <a href="about/index.html"><span class="menu-text">About</span> <span class="fusion-caret"><i class="fusion-dropdown-indicator"></i></span></a>
-                  <ul class="sub-menu">
-                    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-46 fusion-dropdown-submenu" id="menu-item-46">
-                      <a href="about/about-us/index.html"><span class="">About Us</span></a>
-                    </li>
-                    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-21196 fusion-dropdown-submenu" id="menu-item-21196">
-                      <a href="about-our-tinctures-2/index.html"><span class="">About Our Tinctures</span></a>
-                    </li>
-                    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-45 fusion-dropdown-submenu" id="menu-item-45">
-                      <a href="about/mission-statement/index.html"><span class="">Mission Statement</span></a>
-                    </li>
-                    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5485 fusion-dropdown-submenu" id="menu-item-5485">
-                      <a href="join-us/index.html"><span class="">Join Us</span></a>
-                    </li>
-                    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-44 fusion-dropdown-submenu" id="menu-item-44">
-                      <a href="about/contact-us/index.html"><span class="">Contact Us</span></a>
-                    </li>
-                    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-43 fusion-dropdown-submenu" id="menu-item-43">
-                      <a href="about/dealer-inquiries/index.html"><span class="">Dealer Inquiries</span></a>
-                    </li>
-                    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5274 fusion-dropdown-submenu" id="menu-item-5274">
-                      <a href="retail-locations/index.html"><span class="">Retailers</span></a>
-                    </li>
-                  </ul>
+                  <a href="about/index.html"><span class="menu-text">About Us</span></a>
+                </li>
+                <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-36" id="menu-item-36">
+                  <a href="hemp-faq/index.html"><span class="menu-text">Mission Statement</span></a>
                 </li>
                 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-36" id="menu-item-36">
                   <a href="hemp-faq/index.html"><span class="menu-text">F.A.Q.</span></a>
                 </li>
-                <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-35" id="menu-item-35">
-                  <a href="phb-gives-back/index.html"><span class="menu-text">PHB Gives Back</span></a>
+                <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-38 fusion-dropdown-menu" id="menu-item-38">
+                  <a href="news/index.html"><span class="menu-text">Contact Us</span></a>
                 </li>
-                <li class="fusion-custom-menu-item fusion-main-menu-search">
-                  <a class="fusion-main-menu-icon"></a>
-                  <div class="fusion-custom-menu-item-contents">
-                    <form action="https://purehempbotanicals.com/" class="searchform" method="get" role="search">
-                      <div class="search-table">
-                        <div class="search-field">
-                          <input class="s" name="s" placeholder="Search ..." type="text" value="">
-                        </div>
-                        <div class="search-button">
-                          <input class="searchsubmit" type="submit" value="&#xf002;">
-                        </div>
-                      </div>
-                    </form>
-                  </div>
+                <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-35" id="menu-item-35">
+                  <a href="phb-gives-back/index.html"><span class="menu-text">Disclosure</span></a>
                 </li>
               </ul>
             </div>
@@ -830,49 +736,17 @@ ga('send', 'pageview');
                 </div>
                 <div style="clear:both;"></div>
               </div>
-              <div class="fusion-footer-widget-column widget widget_text" id="text-14">
-                <h4 class="widget-title">Search Our Lab Results</h4>
-                <div class="textwidget">
-                  <div class="search-box">
-                    <form action="https://purehempbotanicals.com/lab-results/lab-search-results/" class="search-form" method="get" role="search">
-                      <label><span class="screen-reader-text">Search for:</span> <input class="search-field" name="swpquery" placeholder="Search …" title="Search for:" type="search" value=""></label> <input class="search-submit" type="submit" value="Search">
-                    </form>
-                  </div>
-                </div>
-                <div style="clear:both;"></div>
-              </div>
+              
             </div>
             <div class="fusion-column col-lg-3 col-md-3 col-sm-3">
               <div class="fusion-footer-widget-column widget woocommerce widget_product_categories" id="woocommerce_product_categories-2">
                 <h4 class="widget-title">Product Categories</h4>
                 <ul class="product-categories">
+                  @foreach($tempcategories as $footer_category)
                   <li class="cat-item cat-item-32">
-                    <a href="product-category/capsules/index.html">Capsules</a>
+                    <a href="{{url('/product/category/'.$footer_category->id)}}">{{$footer_category->name}}</a>
                   </li>
-                  <li class="cat-item cat-item-38">
-                    <a href="product-category/cbdcrystals/index.html">CBD Crystals</a>
-                  </li>
-                  <li class="cat-item cat-item-212">
-                    <a href="product-category/mints/index.html">Mints</a>
-                  </li>
-                  <li class="cat-item cat-item-64">
-                    <a href="product-category/pets/index.html">Pets</a>
-                  </li>
-                  <li class="cat-item cat-item-63">
-                    <a href="product-category/softgels/index.html">Softgels</a>
-                  </li>
-                  <li class="cat-item cat-item-178">
-                    <a href="product-category/subscriptions/index.html">Subscriptions</a>
-                  </li>
-                  <li class="cat-item cat-item-30">
-                    <a href="product-category/tea/index.html">Tea</a>
-                  </li>
-                  <li class="cat-item cat-item-10">
-                    <a href="product-category/tincture/index.html">Tincture</a>
-                  </li>
-                  <li class="cat-item cat-item-36">
-                    <a href="product-category/vape/index.html">Vape</a>
-                  </li>
+                  @endforeach
                 </ul>
                 <div style="clear:both;"></div>
               </div>
@@ -896,9 +770,6 @@ ga('send', 'pageview');
                     </li>
                     <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-140" id="menu-item-140">
                       <a href="terms-of-service/index.html">Terms of Service</a>
-                    </li>
-                    <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6112" id="menu-item-6112">
-                      <a href="http://purehempbotanicals.hasoffers.com/">Affiliates Sign Up!</a>
                     </li>
                   </ul>
                 </div>
