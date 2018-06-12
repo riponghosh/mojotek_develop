@@ -621,95 +621,26 @@ ga('send', 'pageview');
                     <div class="row">
                       <div class="fusion-megamenu-holder" data-width="1100" style="width:1100px;">
                         <ul class="fusion-megamenu fusion-megamenu-border">
-                          <li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-9253 fusion-megamenu-submenu fusion-megamenu-columns-6 col-lg-2 col-md-2 col-sm-2" id="menu-item-9253">
-                            <div class='fusion-megamenu-title'>
-                              <a href="product-category/subscriptions/index.html">Subscriptions</a>
-                            </div>
-                            <div class="fusion-megamenu-widgets-container second-level-widget">
-                              <div class="widget widget_text" id="text-17">
-                                <div class="textwidget">
-                                  <div class="imageframe-align-center">
-                                    <div class="imageframe-liftup">
-                                      <span class="fusion-imageframe imageframe-none imageframe-1"><a class="fusion-no-lightbox" href="product-category/subscriptions/index.html" target="_self"><img class="img-responsive wp-image-21962" height="600" sizes="(max-width: 800px) 100vw, 1860px" src="wp-content/uploads/2018/03/Subscriptions_Category_Icon_All_V2_600x600.jpg" srcset="https://purehempbotanicals.com/wp-content/uploads/2018/03/Subscriptions_Category_Icon_All_V2_600x600-200x200.jpg 200w, https://purehempbotanicals.com/wp-content/uploads/2018/03/Subscriptions_Category_Icon_All_V2_600x600-400x400.jpg 400w, https://purehempbotanicals.com/wp-content/uploads/2018/03/Subscriptions_Category_Icon_All_V2_600x600.jpg 600w" width="600"></a></span>
-                                    </div>
-                                  </div>
-                                </div>
-                              </div>
-                            </div>
-                          </li>
-                          <li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-6358 fusion-megamenu-submenu fusion-megamenu-columns-6 col-lg-2 col-md-2 col-sm-2" id="menu-item-6358">
-                            <div class='fusion-megamenu-title'>
-                              <a href="product-category/pets/index.html">Pets</a>
-                            </div>
-                            <div class="fusion-megamenu-widgets-container second-level-widget">
-                              <div class="widget widget_text" id="text-16">
-                                <div class="textwidget">
-                                  <p><img src="wp-content/uploads/2018/04/Pet_Tinctures_Category_Icon_V4_600x600.jpg"></p>
-                                  <div class="imageframe-align-center">
-                                    <div class="imageframe-liftup">
-                                      <span class="fusion-imageframe imageframe-none imageframe-2"><a class="fusion-no-lightbox" href="product-category/pets/index.html" target="_self"></a></span>
-                                    </div>
-                                  </div>
-                                  <p></p>
-                                </div>
-                              </div>
-                            </div>
-                          </li>
-                          <li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-6019 fusion-megamenu-submenu fusion-megamenu-columns-6 col-lg-2 col-md-2 col-sm-2" id="menu-item-6019">
-                            <div class='fusion-megamenu-title'>
-                              <a href="product-category/softgels/index.html">Softgels</a>
-                            </div>
-                            <div class="fusion-megamenu-widgets-container second-level-widget">
-                              <div class="widget widget_text" id="text-15">
-                                <div class="textwidget">
-                                  <div class="imageframe-align-center">
-                                    <div class="imageframe-liftup">
-                                      <span class="fusion-imageframe imageframe-none imageframe-3"><a class="fusion-no-lightbox" href="product-category/softgels/index.html" target="_self"><img class="img-responsive wp-image-21961" height="600" sizes="(max-width: 800px) 100vw, 1860px" src="wp-content/uploads/2018/03/Capsule_Category_Icon_All_V2_600x600.jpg" srcset="https://purehempbotanicals.com/wp-content/uploads/2018/03/Capsule_Category_Icon_All_V2_600x600-200x200.jpg 200w, https://purehempbotanicals.com/wp-content/uploads/2018/03/Capsule_Category_Icon_All_V2_600x600-400x400.jpg 400w, https://purehempbotanicals.com/wp-content/uploads/2018/03/Capsule_Category_Icon_All_V2_600x600.jpg 600w" width="600"></a></span>
-                                    </div>
-                                  </div>
-                                </div>
-                              </div>
-                            </div>
-                          </li>
-                          <li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-5182 fusion-megamenu-submenu fusion-megamenu-columns-6 col-lg-2 col-md-2 col-sm-2" id="menu-item-5182">
-                            <div class='fusion-megamenu-title'>
-                              <a href="product-category/capsules/index.html">Capsules</a>
-                            </div>
-                            <div class="fusion-megamenu-widgets-container second-level-widget">
-                              <div class="widget widget_text" id="text-10">
-                                <div class="textwidget">
-                                  <div class="imageframe-align-center">
-                                    <div class="imageframe-liftup">
-                                      <span class="fusion-imageframe imageframe-none imageframe-4"><a class="fusion-no-lightbox" href="product-category/capsules/index.html" target="_self"><img class="img-responsive wp-image-21968" height="600" sizes="(max-width: 800px) 100vw, 1860px" src="wp-content/uploads/2018/03/Softgels_Category_Icon_All_V2_600x600-1.jpg" srcset="https://purehempbotanicals.com/wp-content/uploads/2018/03/Softgels_Category_Icon_All_V2_600x600-1-200x200.jpg 200w, https://purehempbotanicals.com/wp-content/uploads/2018/03/Softgels_Category_Icon_All_V2_600x600-1-400x400.jpg 400w, https://purehempbotanicals.com/wp-content/uploads/2018/03/Softgels_Category_Icon_All_V2_600x600-1.jpg 600w" width="600"></a></span>
-                                    </div>
-                                  </div>
-                                </div>
-                              </div>
-                            </div>
-                          </li>
+                         @foreach($tempcategories as $categories)
                           <li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-10085 fusion-megamenu-submenu fusion-megamenu-columns-6 col-lg-2 col-md-2 col-sm-2" id="menu-item-10085">
                             <div class='fusion-megamenu-title'>
-                              <a href="product-category/mints/index.html">Mints</a>
+                              <a href="product-category/mints/index.html">{{$categories->name}}</a>
                             </div>
                             <div class="fusion-megamenu-widgets-container second-level-widget">
                               <div class="widget widget_text" id="text-18">
                                 <div class="textwidget">
                                   <div class="imageframe-align-center">
                                     <div class="imageframe-liftup">
-                                      <span class="fusion-imageframe imageframe-none imageframe-5"><a class="fusion-no-lightbox" href="product-category/mints/index.html" target="_self"><img class="img-responsive wp-image-21966" height="600" sizes="(max-width: 800px) 100vw, 1860px" src="wp-content/uploads/2018/03/Mints_Category_Icon_All_V3_600x600-1.jpg" srcset="https://purehempbotanicals.com/wp-content/uploads/2018/03/Mints_Category_Icon_All_V3_600x600-1-200x200.jpg 200w, https://purehempbotanicals.com/wp-content/uploads/2018/03/Mints_Category_Icon_All_V3_600x600-1-400x400.jpg 400w, https://purehempbotanicals.com/wp-content/uploads/2018/03/Mints_Category_Icon_All_V3_600x600-1.jpg 600w" width="600"></a></span>
+                                      <span class="fusion-imageframe imageframe-none imageframe-5"><a class="fusion-no-lightbox" href="product-category/mints/index.html" target="_self"><img class="img-responsive wp-image-21966" height="600" sizes="(max-width: 800px) 100vw, 1860px" src="{{url('/'.$categories->image)}}" srcset="{{url('/'.$categories->image)}} 600w" width="600"></a></span>
                                     </div>
                                   </div>
                                 </div>
                               </div>
                             </div>
                           </li>
-                          <li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-5355 fusion-megamenu-submenu fusion-megamenu-columns-6 col-lg-2 col-md-2 col-sm-2" id="menu-item-5355">
-                            <div class='fusion-megamenu-title'>
-                              <a href="product-category/cbdcrystals/index.html">CBD Crystals</a>
-                            </div>
-                          </li>
+                          @endforeach
                         </ul>
-                        <ul class="fusion-megamenu fusion-megamenu-row-2 fusion-megamenu-row-columns-3" style="width:50% !important;">
+                        <!-- <ul class="fusion-megamenu fusion-megamenu-row-2 fusion-megamenu-row-columns-3" style="width:50% !important;">
                           <li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-5184 fusion-megamenu-submenu fusion-megamenu-columns-3 col-lg-4 col-md-4 col-sm-4" id="menu-item-5184">
                             <div class='fusion-megamenu-title'>
                               <a href="product-category/tea/index.html">Tea</a>
@@ -758,7 +689,7 @@ ga('send', 'pageview');
                               </div>
                             </div>
                           </li>
-                        </ul>
+                        </ul> -->
                       </div>
                       <div style="clear:both;"></div>
                     </div>

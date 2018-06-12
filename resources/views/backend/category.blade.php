@@ -209,8 +209,30 @@
                             </div>
                             
                             <div class="parsley-row uk-margin-bottom">
-                                <label for="description">Description</label>
-                                <textarea class="md-input" id="description"  name="description" cols="10" rows="3" data-parsley-trigger="keyup" >{{$data_edit->description}}</textarea>
+                                <!-- <label for="add_description">Description</label> -->
+
+                                <div class="parsley-row">
+                                    <label>Description</label>
+                                </div>
+                                    
+                                <textarea class="md-input" id="edit_description" class="ckeditor" name="description" required cols="10" rows="3" data-parsley-trigger="keyup" >{{$data_edit->description}}</textarea>
+                            </div>
+                            <div class="uk-grid" data-uk-grid-margin>
+                                <div class="uk-width-1-5">
+                                    <div class="parsley-row">
+                                        <label for="image">Image<span></span></label>
+                                    </div>
+                                </div>
+                                <div class="uk-width-medium-1-1">
+                                    <div class="md-card">
+                                        <div class="md-card-content">
+                                            <h3 class="heading_a uk-margin-small-bottom">
+                                                Default
+                                            </h3>
+                                            <input type="file" id="input-file-a" name="image" class="dropify" data-default-file="{{url('/'.$data_edit->image)}}"/>
+                                        </div>
+                                    </div>
+                                </div>
                             </div>
                     </div>
                     <div class="uk-modal-footer"> 
@@ -251,5 +273,6 @@ $('#course').addClass('current_section');
 </script>
 <script type="text/javascript">
     CKEDITOR.replace('add_description');
+    CKEDITOR.replaceClass = 'edit_description';
 </script>
 @endsection

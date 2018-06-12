@@ -122,6 +122,12 @@ class CategoryController extends Controller
         $data_store-> description = $data['description'];
         $data_store-> created_at = Carbon::now();
         $data_store-> updated_at = Carbon::now();
+        $file   = $request->file('image');
+        $prefix = 'category';
+        $path   = 'uploads/images/category';
+        $file_upload = new FileUpload;
+        $upload = $file_upload->upload($file, $prefix, $path);
+        $data_store-> image = $path.'/'.$upload['file_name'];
 
         $data_store->save();
 

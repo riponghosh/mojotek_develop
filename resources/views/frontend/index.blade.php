@@ -144,7 +144,7 @@
                                 <div class="fusion-carousel-meta">
                                   <a href="product-category/tea/index.html" rel="tag">Tea</a>
                                   <div class="fusion-carousel-price">
-                                    <span class="price"><del><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&#36;</span>24.95</span></del> <ins><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&#36;</span>12.95</span></ins></span>
+                                    <span class="price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&#36;</span>34.95</span></span>
                                   </div>
                                 </div>
                               </div>
