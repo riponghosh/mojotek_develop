@@ -4,6 +4,7 @@ namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
 use App\Category;
+use App\Lib\FileUpload;
 use Carbon\Carbon;
 use Auth;
 
@@ -46,11 +47,17 @@ class CategoryController extends Controller
        ]);
 
         
-    
+        
         
         $data_store = new Category();
         $data_store-> name = $data['name'];
         $data_store-> description = $data['description'];
+        $file   = $request->file('image');
+        $prefix = 'category';
+        $path   = 'uploads/images/category';
+        $file_upload = new FileUpload;
+        $upload = $file_upload->upload($file, $prefix, $path);
+        $data_store-> image = $path.'/'.$upload['file_name'];
         $data_store-> created_at = Carbon::now();
         $data_store-> updated_at = Carbon::now();
 

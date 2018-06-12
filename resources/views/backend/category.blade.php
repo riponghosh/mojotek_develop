@@ -88,7 +88,7 @@
             <!-- Add new course modal -->
 
             <div class="uk-modal" id="add_modal">
-                <div class="uk-modal-dialog ">
+                <div class="uk-modal-dialog uk-modal-dialog-large">
                     <button type="button" class="uk-modal-close uk-close"></button>
                     <div class="uk-modal-header" style="margin-right: -32px;">
                         <h3 class="uk-modal-title">Add New </h3>
@@ -104,8 +104,40 @@
                         </div>
                         
                         <div class="parsley-row uk-margin-bottom">
-                            <label for="description">Description</label>
-                            <textarea class="md-input" id="description" name="description" required cols="10" rows="3" data-parsley-trigger="keyup" ></textarea>
+                            <!-- <label for="add_description">Description</label> -->
+
+                            <div class="parsley-row">
+                                <label>Description</label>
+                            </div>
+                                
+                            <textarea class="md-input" id="add_description" name="description" required cols="10" rows="3" data-parsley-trigger="keyup" ></textarea>
+                        </div>
+
+                        <div class="parsley-row uk-margin-bottom">
+                            <h3 class="full_width_in_card heading_c">
+                                 Give Category Image
+                            </h3>
+
+    
+                            <div class="uk-grid" data-uk-grid-margin>
+                                <div class="uk-width-1-5">
+                                    <div class="parsley-row">
+                                        <label for="image">Image<span></span></label>
+                                    </div>
+                                </div>
+                                <div class="uk-width-medium-1-1">
+                                    <div class="md-card">
+                                        <div class="md-card-content">
+                                            <h3 class="heading_a uk-margin-small-bottom">
+                                                Default
+                                            </h3>
+                                            <input type="file" id="input-file-a" name="image" class="dropify" />
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+
                         </div>
                     </div>
 
@@ -216,5 +248,8 @@ $('.delete_btn').click(function () {
     </script>
 <script type="text/javascript">
 $('#course').addClass('current_section');
+</script>
+<script type="text/javascript">
+    CKEDITOR.replace('add_description');
 </script>
 @endsection

@@ -1,0 +1,1 @@
+jQuery(window).load(function(){jQuery("select#xcid_social_reward_coupon_mode").change(function(){"simple"===jQuery(this).val()?jQuery(this).parent().parent().next("tr").show():jQuery(this).parent().parent().next("tr").hide()}).change()});

@@ -307,12 +307,12 @@
                     
                 </li>
 
-                <li title="Dashboard">
+                <!-- <li title="Dashboard">
                     <a href="{{route('admin_subcategory')}}">
                         <span class="menu_icon"><i class="material-icons">&#xE871;</i></span>
                         <span class="menu_title">Sub Category</span>
                     </a>
-                </li>
+                </li> -->
                 @endif
 
                 <li title="Dashboard">
@@ -374,7 +374,10 @@
 	    <script src="{{url('/backend/assets/js/pages/forms_file_input.min.js')}}"></script>
 
 	    <!--  contact list functions -->
-	    <script src="{{url('/backend/assets/js/pages/page_contact_list.min.js')}}"></script>@yield('scripts')
+	    <script src="{{url('/backend/assets/js/pages/page_contact_list.min.js')}}"></script>
+        
+        <script src="{{url('/backend/assets/editor/ckeditor.js')}}"></script>
+        @yield('scripts')
 	    <script src="{{url('/backend/assets/js/pages/page_user_edit.min.js')}}"></script>
 
         <!-- d3 -->
@@ -416,7 +419,6 @@
 
 	    <!--  tablesorter functions -->
 	    <script src="{{url('/backend/assets/js/pages/plugins_tablesorter.min.js')}}"></script>
-
         
     
     <script>

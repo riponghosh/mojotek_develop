@@ -1,0 +1,173 @@
+/*
+Theme Name: Pure Hemp Botanicals
+Description: Child theme for Avada theme
+Author: ThemeFusion
+Author URI: https://theme-fusion.com
+Template: Avada
+Version: 1.0.0
+Text Domain:  Avada
+*/
+
+.fusion-main-menu > ul > li > a{
+	text-transform:uppercase;
+}
+
+.fusion-secondary-menu > ul > li{
+	border-color: #d9d9d9 !important;
+}
+
+.fusion-secondary-menu-icon {
+    background-color: #FFFFFF !important;
+}
+
+.fusion-icon-facebook:before, .fusion-icon-twitter:before{
+	color:#333333 !important;
+}
+
+.fusion-icon-facebook, .fusion-icon-twitter{
+	margin-right:15px;
+}
+
+.fusion-secondary-header {
+    background-color: #f0f0f0 !important;
+    font-size: 12px;
+    color: #333333 !important;
+    border-bottom-color: #5cd606;
+}
+.fusion-secondary-header a, .fusion-secondary-header a:hover {
+   color:#333333 !important;
+}
+
+.tp-caption.new1, .new1, .tp-caption.new1, .new2{
+	text-shadow: 1px 1px 5px rgba(0, 0, 0, 0.4);
+}
+
+.home_featured_strip1, .home_featured_strip1 h1{
+	color:#FFF !important;
+}
+.home_featured_strip1 p{
+	font-size:16px;
+	line-height:22px;
+}
+.fusion-button.button-1, .fusion-button.button-2 {
+    background:none !important;
+}
+
+.fusion-footer-widget-area{
+	background-repeat: repeat !important;
+	background-image: url(images/texture.black.jpg) !important;
+	border:0 !important;
+}
+
+.fusion-footer-widget-area .widget-title, .fusion-footer-widget-area h3{
+	font-size:18px !important;
+	line-height:18px !important;
+}
+
+.fusion-footer-widget-area .fusion-icon-facebook:before, .fusion-footer-widget-area .fusion-icon-twitter:before, .fusion-footer-widget-area .fusion-icon-instagram:before, .fusion-footer-widget-area .fusion-icon-googleplus:before{
+	color:#FFF !important;
+}
+
+.fusion-footer-widget-area ul.product-categories li a:before{
+	display:none;
+}
+.sidebar .widget h4{
+	font-size:16px !important;
+	line-height:110% !important;
+}
+.fusion-page-title-bar .fusion-breadcrumbs, .fusion-page-title-bar .fusion-breadcrumbs a {
+    color: #FFFFFF !important;
+}
+
+.fusion-page-title-bar h1 {
+    font-size: 22px !important;
+    line-height: normal;
+}
+
+img.maximg{
+	max-width:100%;
+	width:auto;
+	height:auto;
+}
+
+.home #main{
+	padding-bottom:0 !important;
+}
+.fusion-mobile-menu-design-modern.fusion-header-v3 .fusion-header{
+padding-top:0px !important;
+padding-bottom:0px !important;
+}
+
+.fusion-secondary-menu > ul > li > a{
+	font-size:15px !important;
+	font-weight:400 !important;
+	background:#8dc601 !important;
+}
+
+.fusion-secondary-header{
+	font-size:15px !important;
+	font-weight:400 !important;
+}
+
+.woocommerce-side-nav li a{
+	font-family: 'Lato', Arial, Helvetica, sans-serif  !important;
+}
+
+#slidingbar-area{
+	display:none;
+}
+.fusion-content-widget-area .widget li.current-cat a{
+	color:#008000 !important;
+}
+
+.fusion-page-title-bar{
+	border-color:#eae9e9;border-bottom-width: 0px;border-top-width: 0px;border-bottom-style: solid;border-top-style: solid;padding-bottom:20px;padding-top:20px;padding-left:30px;padding-right:30px;padding-left:30px !important;padding-right:30px !important;background-attachment:fixed;background-color:rgba(255,255,255,0);background-position:left top;background-repeat:no-repeat;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;-ms-filter: &quot;
+}
+
+.tax-product_cat .fusion-page-title-wrapper{
+	display:none !important;
+}
+
+.tax-product_cat .fusion-page-title-bar{
+	height:300px !important;
+}
+
+.tax-product_cat #content{
+	width:100% !important;
+}
+.tax-product_cat #sidebar{
+	display:none !important;
+}
+.tax-product_cat .catalog-ordering{
+	display:none;
+}
+
+.fusion-image-wrapper .fusion-rollover {
+    background-image:none !important;
+	background-color:rgba(141,198,1, 0.9) !important;
+}
+.fusion-image-wrapper .fusion-rollover .fusion-rollover-content .fusion-product-buttons a, .product-buttons a{
+	font-size:18px !important;
+	line-height:22px !important;
+	color:#FFF !important;
+}
+.tax-product_cat .fusion-image-wrapper .fusion-rollover .fusion-rollover-content .fusion-product-buttons a, .tax-product_cat .product-buttons a{
+	font-size:22px !important;
+	line-height:25px !important;
+	color:#FFF !important;
+}
+.fusion-woo-product-design-clean .products .fusion-rollover-content .fusion-rollover-linebreak{
+	clear:both;
+	font-size:0px !important;
+	margin:0 !important;
+	padding:0;
+	width:100%;
+}
+
+.shop_category_footer_bg{
+	border-color:#eae9e9;border-bottom-width: 0px;border-top-width: 0px;border-bottom-style: solid;border-top-style: solid;padding-bottom:20px;padding-top:20px;padding-left:30px;padding-right:30px;padding-left:30px !important;padding-right:30px !important;background-attachment:fixed;background-color:rgba(255,255,255,0);background-position:left top;background-repeat:no-repeat;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;-ms-filter: &quot;progid:DXImageTransform.Microsoft.AlphaImageLoader(src='../../uploads/2016/04/Healthy_lifestyle_adventure_fitness_outdoors.jpg', sizingMethod='scale')&quot;background-image: url(../../uploads/2016/04/Healthy_lifestyle_adventure_fitness_outdoors.jpg);
+}
+
+.location_name .searchResultsTable td {
+	font-family: 'Lato';
+}
