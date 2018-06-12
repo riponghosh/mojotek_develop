@@ -4,150 +4,39 @@
 
 
 @section('content')
- 	<div class="site-wrapper">
-      
-
-
-
-
-<section class="site-content">
-  <div class="">
-    <div class="container">
-      
-
-    <div class="u-ui-margin-vertical-x-large js-notification">
-      <div class="c-cell--wide c-cell">
-    <div class="c-cell__image"><div class="c-icon--large c-icon--cs3 c-icon"><svg width="24" height="24" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-  <path d="M32 64c17.673 0 32-14.327 32-32 0-17.673-14.327-32-32-32-17.673 0-32 14.327-32 32 0 17.673 14.327 32 32 32zm-4-45.995c0-2.212 1.795-4.005 4-4.005 2.209 0 4 1.792 4 4.005v2.064c0 3.931-1.815 17.931-4 17.931-1.914 0-4-13.882-4-17.931v-2.063zm0 27.995c0-2.209 1.795-4 4-4 2.209 0 4 1.795 4 4 0 2.209-1.795 4-4 4-2.209 0-4-1.795-4-4z"></path>
-</svg>
-</div></div>
-
-  <div class="c-cell__content">
-
-
-      <div class="c-cell__body">
-        By continuing to use Sweetkandi, you agree to our delicious <a href="cookie-policy.html">cookie policy</a> to help to make your Sweetkandi experience even better.
-</div>
-
-  </div>
-
-    <div class="c-cell__suffix"><button name="button" type="button" class="c-button--normal c-button--medium c-button js-close-notification js-cookie-consent"><span class="c-button__content">Close</span></button></div>
-
-  
-</div>    </div>
-
-    </div>
-
-    <div class="row">
-      <section id="content" class="grid12 site-content__content-section">
-        <div class="body-content">
-            
-            
-            
-
-          <section class="new-about__hero-section new-about__hero-section--mission">
-  <div class="new-about__heading">
-    <div class="c-text--responsive-large-heading c-text--parent c-text--center c-text">Our mission: make second hand the #1 choice worldwide</div>
-  </div>
-</section>
-
-<section class="new-about__hero-section new-about__hero-section--statistics new-about__hero-section--constrained">
-  <div class="new-about__heading">
-    How are we doing? See for yourself!
-  </div>
-
-  <div class="new-about__cell-container new-about__cell-container--three">
-    <div class="new-about__cell i i--new-about i--member">
-      <div class="new-about__cell-title new-about__cell-title--blue">20 million</div>
-      <div class="new-about__cell-subtitle">members. Just like London, on Sweetkandi.</div>
-    </div>
-    <div class="new-about__cell i i--new-about i--new-member">
-      <div class="new-about__cell-title new-about__cell-title--blue">15 thousand</div>
-      <div class="new-about__cell-subtitle">members join Sweetkandi every day. New friends, new finds!</div>
-    </div>
-    <div class="new-about__cell i i--new-about i--shop">
-      <div class="new-about__cell-title new-about__cell-title--blue">52 million</div>
-      <div class="new-about__cell-subtitle">items listed. An average shop stocks 1000.</div>
-    </div>
-    <div class="new-about__cell i i--new-about i--item">
-      <div class="new-about__cell-title new-about__cell-title--blue">185 items</div>
-      <div class="new-about__cell-subtitle">every minute. A full store in an hour!</div>
-    </div>
-    <div class="new-about__cell i i--new-about i--time">
-      <div class="new-about__cell-title new-about__cell-title--blue">2 seconds</div>
-      <div class="new-about__cell-subtitle">and one item from our catalogue is sold.</div>
-    </div>
-    <div class="new-about__cell i i--new-about i--record">
-      <div class="new-about__cell-title new-about__cell-title--blue">17 seconds</div>
-      <div class="new-about__cell-subtitle">is the record Sweetkandi sale!</div>
-    </div>
-  </div>
-</section>
-
-<section class="new-about__hero-section new-about__hero-section--countries new-about__hero-section--with-background">
-  <div class="new-about__heading">
-    Our clothes-sharing hobby grew into a fun company
-  </div>
-
-  <div class="new-about__subtitle">
-    UK • USA • Germany • Austria • France • Lithuania • Poland • Czech Rep. • The Netherlands • Spain
-  </div>
-
-  <div class="new-about__map-background new-about__map-background--fixed-height">
-    <div class="new-about__cell-container new-about__cell-container--centered new-about__cell-container--three">
-      <div class="new-about__cell i i--new-about i--people">
-        <div class="new-about__cell-title new-about__cell-title--red">130 people</div>
-        <div class="new-about__cell-subtitle">on the Sweetkandi team.</div>
-      </div>
-      <div class="new-about__cell i i--new-about i--rocket">
-        <div class="new-about__cell-title new-about__cell-title--red">10 countries</div>
-        <div class="new-about__cell-subtitle">and growing.</div>
-      </div>
-      <div class="new-about__cell i i--new-about i--clock">
-        <div class="new-about__cell-title new-about__cell-title--red">9600 hours</div>
-        <div class="new-about__cell-subtitle">worked every week.</div>
-      </div>
-    </div>
-  </div>
-</section>
-
-<hr class="c-divider" />
-
-<div class="new-about__social-media">
-  <a class="new-about__social-media-link i i--social-media i--tumblr" href="http://weworkatSweetkandi.tumblr.com/"></a>
-
-    <a class="new-about__social-media-link i i--social-media i--instagram" href="http://instagram.com/Sweetkandiuk"></a>
-
-    <a class="new-about__social-media-link i i--social-media i--facebook" href="https://www.facebook.com/SweetkandiUK"></a>
-
-    <a class="new-about__social-media-link i i--social-media i--twitter" href="https://twitter.com/SweetkandiUK"></a>
-</div>
-
-<section class="new-about__hero-section new-about__hero-section--middle">
-  <div class="new-about__heading">
-    That&#39;s us. Now, see what we can do for you
-  </div>
-
-  <div class="new-about__subtitle">
-    <a href="how_it_works.html">Check out how Sweetkandi works</a>
-  </div>
-</section>
-
+ 	<div id="sliders-container"></div>
+    <div class="fusion-page-title-bar fusion-page-title-bar-breadcrumbs fusion-page-title-bar-left">
+      <div class="fusion-page-title-row">
+        <div class="fusion-page-title-wrapper">
+          <div class="fusion-page-title-captions">
+            <h1 class="entry-title">About Us</h1>
+          </div>
+          <div class="fusion-page-title-secondary">
+            <div class="fusion-breadcrumbs">
+              <span itemscope itemtype="http://data-vocabulary.org/Breadcrumb"><a href="../../index.html" itemprop="url"><span itemprop="title">Home</span></a></span><span class="fusion-breadcrumb-sep">/</span><span itemscope itemtype="http://data-vocabulary.org/Breadcrumb"><a href="../index.html" itemprop="url"><span itemprop="title">About</span></a></span><span class="fusion-breadcrumb-sep">/</span><span class="breadcrumb-leaf">About Us</span>
+            </div>
+          </div>
         </div>
-
-        
-      </section>
-
+      </div>
     </div>
-
-    
-  </div>
-</section>
-
-      
-
-    </div>
-  </div>
+    <div class="clearfix" id="main" style="">
+      <div class="fusion-row" style="">
+        <div id="content" style="width: 100%;">
+          <div class="post-21 page type-page status-publish hentry" id="post-21">
+            <span class="entry-title" style="display: none;">About Us</span> <span class="vcard" style="display: none;"><span class="fn"><a href="../../author/alexs/index.html" rel="author" title="Posts by Alex">Alex</a></span></span> <span class="updated" style="display:none;">2016-07-15T02:02:21+00:00</span>
+            <div class="post-content">
+              <p><span data-sheets-userformat="{&quot;2&quot;:13185,&quot;3&quot;:{&quot;1&quot;:0},&quot;10&quot;:1,&quot;11&quot;:4,&quot;12&quot;:0,&quot;15&quot;:&quot;Calibri&quot;,&quot;16&quot;:10}" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Can One Plant Save the Planet?\nMaybe not, but hemp can do a lot to make the world a better place. There are more than 25,000 different uses for hemp \u2014 from natural beauty products and holistic health products to green building materials and eco-friendly clothing. Hemp has almost as many benefits for human health and the environment as there are ways to use it. This is why we\u2019re passionate about making whole-plant hemp products.\n\nWith compassion at the heart of our business, all the quality goods we craft, manufacture and distribute are created through ethical, eco-friendly business practices that respect the planet and all its inhabitants. Pure Hemp Botanicals not only chooses sustainable, organically grown hemp as the basis for our goods, we also take our planet into consideration in every step of the production process \u2014 from the field to the factory. All our products and packaging are sourced with cruelty-free, plant-based ingredients. We partner with companies like Greenhouse Growing System and Advanced Plant Processing who are as conscious of their footprint as we are and only use cruelty-free resources and practice environmental responsibility.\n\nA Family of Passionate Hemp Advocates\nUnder the leadership of our Hemp Master, Alex Seleznov, our passionate and skilled team members at Pure Hemp Botanicals have become family. Appreciation for diversity and human dignity are the foundation for our business philosophy, which puts compassion above profit, and communication above productivity, while encouraging a service ethic. Since we are all valued and respected for the role we play in our company \u2014 whether we are part of the production line or the event team \u2014 we work together harmoniously to bring you the very best whole-plant hemp products.\n\nOur mission to put compassion into action extends beyond our production and distribution processes at Pure Hemp Botanicals. Part of how we work to alleviate suffering and help heal the planet is by supporting charities that are agents of compassion in our local and global communities. A percentage of every purchase from Pure Hemp Botanicals is donated to an organization whose work has a meaningful and positive impact on our world. Check out Pure Hemp Botanicals Gives Back to learn about the charitable work we support.\n\nWe hope you\u2019ll join us in spreading compassion and making the world a better place one hemp plant at a time!\n&quot;}">Can One Plant Save the Planet?<br>
+              Maybe not, but hemp can do a lot to make the world a better place. There are more than 25,000 different uses for hemp — from natural beauty products and holistic health products to green building materials and eco-friendly clothing. Hemp has almost as many benefits for human health and the environment as there are ways to use it. This is why we’re passionate about making whole-plant hemp products.</span></p>
+              <p><span data-sheets-userformat="{&quot;2&quot;:13185,&quot;3&quot;:{&quot;1&quot;:0},&quot;10&quot;:1,&quot;11&quot;:4,&quot;12&quot;:0,&quot;15&quot;:&quot;Calibri&quot;,&quot;16&quot;:10}" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Can One Plant Save the Planet?\nMaybe not, but hemp can do a lot to make the world a better place. There are more than 25,000 different uses for hemp \u2014 from natural beauty products and holistic health products to green building materials and eco-friendly clothing. Hemp has almost as many benefits for human health and the environment as there are ways to use it. This is why we\u2019re passionate about making whole-plant hemp products.\n\nWith compassion at the heart of our business, all the quality goods we craft, manufacture and distribute are created through ethical, eco-friendly business practices that respect the planet and all its inhabitants. Pure Hemp Botanicals not only chooses sustainable, organically grown hemp as the basis for our goods, we also take our planet into consideration in every step of the production process \u2014 from the field to the factory. All our products and packaging are sourced with cruelty-free, plant-based ingredients. We partner with companies like Greenhouse Growing System and Advanced Plant Processing who are as conscious of their footprint as we are and only use cruelty-free resources and practice environmental responsibility.\n\nA Family of Passionate Hemp Advocates\nUnder the leadership of our Hemp Master, Alex Seleznov, our passionate and skilled team members at Pure Hemp Botanicals have become family. Appreciation for diversity and human dignity are the foundation for our business philosophy, which puts compassion above profit, and communication above productivity, while encouraging a service ethic. Since we are all valued and respected for the role we play in our company \u2014 whether we are part of the production line or the event team \u2014 we work together harmoniously to bring you the very best whole-plant hemp products.\n\nOur mission to put compassion into action extends beyond our production and distribution processes at Pure Hemp Botanicals. Part of how we work to alleviate suffering and help heal the planet is by supporting charities that are agents of compassion in our local and global communities. A percentage of every purchase from Pure Hemp Botanicals is donated to an organization whose work has a meaningful and positive impact on our world. Check out Pure Hemp Botanicals Gives Back to learn about the charitable work we support.\n\nWe hope you\u2019ll join us in spreading compassion and making the world a better place one hemp plant at a time!\n&quot;}">With compassion at the heart of our business, all the quality goods we craft, manufacture and distribute are created through ethical, eco-friendly business practices that respect the planet and all its inhabitants. Pure Hemp Botanicals not only chooses sustainable, organically grown hemp as the basis for our goods, we also take our planet into consideration in every step of the production process — from the field to the factory. All our products and packaging are sourced with cruelty-free, plant-based ingredients. We partner with companies like Greenhouse Growing System and Advanced Plant Processing who are as conscious of their footprint as we are and only use cruelty-free resources and practice environmental responsibility.</span></p>
+              <p><span data-sheets-userformat="{&quot;2&quot;:13185,&quot;3&quot;:{&quot;1&quot;:0},&quot;10&quot;:1,&quot;11&quot;:4,&quot;12&quot;:0,&quot;15&quot;:&quot;Calibri&quot;,&quot;16&quot;:10}" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Can One Plant Save the Planet?\nMaybe not, but hemp can do a lot to make the world a better place. There are more than 25,000 different uses for hemp \u2014 from natural beauty products and holistic health products to green building materials and eco-friendly clothing. Hemp has almost as many benefits for human health and the environment as there are ways to use it. This is why we\u2019re passionate about making whole-plant hemp products.\n\nWith compassion at the heart of our business, all the quality goods we craft, manufacture and distribute are created through ethical, eco-friendly business practices that respect the planet and all its inhabitants. Pure Hemp Botanicals not only chooses sustainable, organically grown hemp as the basis for our goods, we also take our planet into consideration in every step of the production process \u2014 from the field to the factory. All our products and packaging are sourced with cruelty-free, plant-based ingredients. We partner with companies like Greenhouse Growing System and Advanced Plant Processing who are as conscious of their footprint as we are and only use cruelty-free resources and practice environmental responsibility.\n\nA Family of Passionate Hemp Advocates\nUnder the leadership of our Hemp Master, Alex Seleznov, our passionate and skilled team members at Pure Hemp Botanicals have become family. Appreciation for diversity and human dignity are the foundation for our business philosophy, which puts compassion above profit, and communication above productivity, while encouraging a service ethic. Since we are all valued and respected for the role we play in our company \u2014 whether we are part of the production line or the event team \u2014 we work together harmoniously to bring you the very best whole-plant hemp products.\n\nOur mission to put compassion into action extends beyond our production and distribution processes at Pure Hemp Botanicals. Part of how we work to alleviate suffering and help heal the planet is by supporting charities that are agents of compassion in our local and global communities. A percentage of every purchase from Pure Hemp Botanicals is donated to an organization whose work has a meaningful and positive impact on our world. Check out Pure Hemp Botanicals Gives Back to learn about the charitable work we support.\n\nWe hope you\u2019ll join us in spreading compassion and making the world a better place one hemp plant at a time!\n&quot;}">A Family of Passionate Hemp Advocates<br>
+              Under the leadership of our Hemp Master, Alex Seleznov, our passionate and skilled team members at Pure Hemp Botanicals have become family. Appreciation for diversity and human dignity are the foundation for our business philosophy, which puts compassion above profit, and communication above productivity, while encouraging a service ethic. Since we are all valued and respected for the role we play in our company — whether we are part of the production line or the event team — we work together harmoniously to bring you the very best whole-plant hemp products.</span></p>
+              <p><span data-sheets-userformat="{&quot;2&quot;:13185,&quot;3&quot;:{&quot;1&quot;:0},&quot;10&quot;:1,&quot;11&quot;:4,&quot;12&quot;:0,&quot;15&quot;:&quot;Calibri&quot;,&quot;16&quot;:10}" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Can One Plant Save the Planet?\nMaybe not, but hemp can do a lot to make the world a better place. There are more than 25,000 different uses for hemp \u2014 from natural beauty products and holistic health products to green building materials and eco-friendly clothing. Hemp has almost as many benefits for human health and the environment as there are ways to use it. This is why we\u2019re passionate about making whole-plant hemp products.\n\nWith compassion at the heart of our business, all the quality goods we craft, manufacture and distribute are created through ethical, eco-friendly business practices that respect the planet and all its inhabitants. Pure Hemp Botanicals not only chooses sustainable, organically grown hemp as the basis for our goods, we also take our planet into consideration in every step of the production process \u2014 from the field to the factory. All our products and packaging are sourced with cruelty-free, plant-based ingredients. We partner with companies like Greenhouse Growing System and Advanced Plant Processing who are as conscious of their footprint as we are and only use cruelty-free resources and practice environmental responsibility.\n\nA Family of Passionate Hemp Advocates\nUnder the leadership of our Hemp Master, Alex Seleznov, our passionate and skilled team members at Pure Hemp Botanicals have become family. Appreciation for diversity and human dignity are the foundation for our business philosophy, which puts compassion above profit, and communication above productivity, while encouraging a service ethic. Since we are all valued and respected for the role we play in our company \u2014 whether we are part of the production line or the event team \u2014 we work together harmoniously to bring you the very best whole-plant hemp products.\n\nOur mission to put compassion into action extends beyond our production and distribution processes at Pure Hemp Botanicals. Part of how we work to alleviate suffering and help heal the planet is by supporting charities that are agents of compassion in our local and global communities. A percentage of every purchase from Pure Hemp Botanicals is donated to an organization whose work has a meaningful and positive impact on our world. Check out Pure Hemp Botanicals Gives Back to learn about the charitable work we support.\n\nWe hope you\u2019ll join us in spreading compassion and making the world a better place one hemp plant at a time!\n&quot;}">Our mission to put compassion into action extends beyond our production and distribution processes at Pure Hemp Botanicals. Part of how we work to alleviate suffering and help heal the planet is by supporting charities that are agents of compassion in our local and global communities. A percentage of every purchase from Pure Hemp Botanicals is donated to an organization whose work has a meaningful and positive impact on our world. Check out Pure Hemp Botanicals Gives Back to learn about the charitable work we support.</span></p>
+              <p><span data-sheets-userformat="{&quot;2&quot;:13185,&quot;3&quot;:{&quot;1&quot;:0},&quot;10&quot;:1,&quot;11&quot;:4,&quot;12&quot;:0,&quot;15&quot;:&quot;Calibri&quot;,&quot;16&quot;:10}" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Can One Plant Save the Planet?\nMaybe not, but hemp can do a lot to make the world a better place. There are more than 25,000 different uses for hemp \u2014 from natural beauty products and holistic health products to green building materials and eco-friendly clothing. Hemp has almost as many benefits for human health and the environment as there are ways to use it. This is why we\u2019re passionate about making whole-plant hemp products.\n\nWith compassion at the heart of our business, all the quality goods we craft, manufacture and distribute are created through ethical, eco-friendly business practices that respect the planet and all its inhabitants. Pure Hemp Botanicals not only chooses sustainable, organically grown hemp as the basis for our goods, we also take our planet into consideration in every step of the production process \u2014 from the field to the factory. All our products and packaging are sourced with cruelty-free, plant-based ingredients. We partner with companies like Greenhouse Growing System and Advanced Plant Processing who are as conscious of their footprint as we are and only use cruelty-free resources and practice environmental responsibility.\n\nA Family of Passionate Hemp Advocates\nUnder the leadership of our Hemp Master, Alex Seleznov, our passionate and skilled team members at Pure Hemp Botanicals have become family. Appreciation for diversity and human dignity are the foundation for our business philosophy, which puts compassion above profit, and communication above productivity, while encouraging a service ethic. Since we are all valued and respected for the role we play in our company \u2014 whether we are part of the production line or the event team \u2014 we work together harmoniously to bring you the very best whole-plant hemp products.\n\nOur mission to put compassion into action extends beyond our production and distribution processes at Pure Hemp Botanicals. Part of how we work to alleviate suffering and help heal the planet is by supporting charities that are agents of compassion in our local and global communities. A percentage of every purchase from Pure Hemp Botanicals is donated to an organization whose work has a meaningful and positive impact on our world. Check out Pure Hemp Botanicals Gives Back to learn about the charitable work we support.\n\nWe hope you\u2019ll join us in spreading compassion and making the world a better place one hemp plant at a time!\n&quot;}">We hope you’ll join us in spreading compassion and making the world a better place one hemp plant at a time!<br></span></p>
+            </div>
+          </div>
+        </div>
+      </div><!-- fusion-row -->
+    </div><!-- #main -->
 @endsection
 @section('scripts')
     

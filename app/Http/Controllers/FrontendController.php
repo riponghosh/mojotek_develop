@@ -27,6 +27,29 @@ class FrontendController extends Controller
     {
         return view('frontend.about');
     }
+    public function cart()
+    {
+        return view('frontend.cart');
+    }
+
+    public function mission()
+    {
+        return view('frontend.mission');
+    }
+    public function contact()
+    {
+        return view('frontend.contact');
+    }
+
+    public function faq()
+    {
+        return view('frontend.faq');
+    }
+
+    public function disclosure()
+    {
+        return view('frontend.disclosure');
+    }
 
     public function infoboard()
     {

@@ -580,7 +580,7 @@ ga('send', 'pageview');
               <div class="fusion-secondary-menu">
                 <ul class="menu" id="menu-top-secondary-menu">
                   <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-62" id="menu-item-62">
-                    <a href="shopping-cart/index.html"><span class="menu-text">Shopping Cart</span></a>
+                    <a href="{{url('/cart')}}"><span class="menu-text">Shopping Cart</span></a>
                   </li>
                   <li class="fusion-custom-menu-item fusion-menu-login-box">
                     <a href="my-account/index.html"><span class="menu-text">My Account<span class="fusion-caret"><i class="fusion-dropdown-indicator"></i></span></span></a>
@@ -595,7 +595,7 @@ ga('send', 'pageview');
                     </div>
                   </li>
                   <li class="fusion-custom-menu-item fusion-menu-cart fusion-secondary-menu-cart">
-                    <a class="fusion-secondary-menu-icon" href="cart/index.html"><span class="menu-text">Cart</span></a>
+                    <a class="fusion-secondary-menu-icon" href="{{url('/cart')}}"><span class="menu-text">Cart</span></a>
                   </li>
                 </ul>
               </div>
@@ -614,10 +614,10 @@ ga('send', 'pageview');
             <div class="fusion-main-menu">
               <ul class="fusion-menu" id="menu-main">
                 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-4 current_page_item menu-item-6" id="menu-item-6">
-                  <a href="index.html"><span class="menu-text">Home</span></a>
+                  <a href="{{url('/')}}"><span class="menu-text">Home</span></a>
                 </li>
                 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-40 fusion-megamenu-menu" id="menu-item-40">
-                  <a href="shop/index.html"><span class="menu-text">Shop</span> <span class="fusion-caret"><i class="fusion-dropdown-indicator"></i></span></a>
+                  <a href="{{url('/product')}}"><span class="menu-text">Shop</span> <span class="fusion-caret"><i class="fusion-dropdown-indicator"></i></span></a>
                   <div class="fusion-megamenu-wrapper fusion-columns-6 columns-per-row-6 columns-9 col-span-12 fusion-megamenu-fullwidth" data-maxwidth="1100">
                     <div class="row">
                       <div class="fusion-megamenu-holder" data-width="1100" style="width:1100px;">
@@ -649,19 +649,19 @@ ga('send', 'pageview');
                 </li>
                 
                 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-37 fusion-dropdown-menu" id="menu-item-37">
-                  <a href="about/index.html"><span class="menu-text">About Us</span></a>
+                  <a href="{{url('/about')}}"><span class="menu-text">About Us</span></a>
                 </li>
                 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-36" id="menu-item-36">
-                  <a href="hemp-faq/index.html"><span class="menu-text">Mission Statement</span></a>
+                  <a href="{{url('/mission')}}"><span class="menu-text">Mission Statement</span></a>
                 </li>
                 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-36" id="menu-item-36">
-                  <a href="hemp-faq/index.html"><span class="menu-text">F.A.Q.</span></a>
+                  <a href="{{url('/faq')}}"><span class="menu-text">F.A.Q.</span></a>
                 </li>
                 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-38 fusion-dropdown-menu" id="menu-item-38">
-                  <a href="news/index.html"><span class="menu-text">Contact Us</span></a>
+                  <a href="{{url('/contact')}}"><span class="menu-text">Contact Us</span></a>
                 </li>
                 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-35" id="menu-item-35">
-                  <a href="phb-gives-back/index.html"><span class="menu-text">Disclosure</span></a>
+                  <a href="{{url('/disclosure')}}"><span class="menu-text">Disclosure</span></a>
                 </li>
               </ul>
             </div>
@@ -720,7 +720,7 @@ ga('send', 'pageview');
                 <h4 class="widget-title">CONNECT WITH US</h4>
                 <div class="fusion-social-networks">
                   <div class="fusion-social-networks-wrapper">
-                    <a class="fusion-social-network-icon fusion-tooltip fusion-facebook fusion-icon-facebook" data-original-title="" data-placement="top" data-title="Facebook" data-toggle="tooltip" href="https://www.facebook.com/purehempbotanicals/?fref=ts" style="font-size:16px;color:#bebdbd;" target="_self" title="Facebook"></a> <a class="fusion-social-network-icon fusion-tooltip fusion-twitter fusion-icon-twitter" data-original-title="" data-placement="top" data-title="Twitter" data-toggle="tooltip" href="https://twitter.com/PHBLife" style="font-size:16px;color:#bebdbd;" target="_self" title="Twitter"></a> <a class="fusion-social-network-icon fusion-tooltip fusion-googleplus fusion-icon-googleplus" data-original-title="" data-placement="top" data-title="Google+" data-toggle="tooltip" href="https://plus.google.com/108298665895139065923/posts" style="font-size:16px;color:#bebdbd;" target="_self" title="Google+"></a> <a class="fusion-social-network-icon fusion-tooltip fusion-youtube fusion-icon-youtube" data-original-title="" data-placement="top" data-title="Youtube" data-toggle="tooltip" href="https://www.youtube.com/channel/UCsdiMh8LY8nIDVTQ_Sxasfg" style="font-size:16px;color:#bebdbd;" target="_self" title="Youtube"></a>
+                    <a class="fusion-social-network-icon fusion-tooltip fusion-facebook fusion-icon-facebook" data-original-title="" data-placement="top" data-title="Facebook" data-toggle="tooltip" href="https://www.facebook.com" style="font-size:16px;color:#bebdbd;" target="_self" title="Facebook"></a> <a class="fusion-social-network-icon fusion-tooltip fusion-twitter fusion-icon-twitter" data-original-title="" data-placement="top" data-title="Twitter" data-toggle="tooltip" href="https://twitter.com" style="font-size:16px;color:#bebdbd;" target="_self" title="Twitter"></a> <a class="fusion-social-network-icon fusion-tooltip fusion-googleplus fusion-icon-googleplus" data-original-title="" data-placement="top" data-title="Google+" data-toggle="tooltip" href="https://plus.google.com" style="font-size:16px;color:#bebdbd;" target="_self" title="Google+"></a> <a class="fusion-social-network-icon fusion-tooltip fusion-youtube fusion-icon-youtube" data-original-title="" data-placement="top" data-title="Youtube" data-toggle="tooltip" href="https://www.youtube.com" style="font-size:16px;color:#bebdbd;" target="_self" title="Youtube"></a>
                   </div>
                 </div>
                 <div style="clear:both;"></div>
@@ -757,10 +757,10 @@ ga('send', 'pageview');
                 <div class="menu-footer-container">
                   <ul class="menu" id="menu-footer">
                     <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-144" id="menu-item-144">
-                      <a href="about/contact-us/index.html">Contact Us</a>
+                      <a href="{{url('/contact')}}">Contact Us</a>
                     </li>
                     <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-143" id="menu-item-143">
-                      <a href="privacy/index.html">Privacy</a>
+                      <a href="{{url('/privacy-policy')}}">Privacy</a>
                     </li>
                     <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-142" id="menu-item-142">
                       <a href="returns/index.html">Returns</a>
@@ -769,7 +769,7 @@ ga('send', 'pageview');
                       <a href="shipping/index.html">Shipping</a>
                     </li>
                     <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-140" id="menu-item-140">
-                      <a href="terms-of-service/index.html">Terms of Service</a>
+                      <a href="{{url('/terms-and-conditions')}}">Terms of Service</a>
                     </li>
                   </ul>
                 </div>
@@ -791,7 +791,7 @@ ga('send', 'pageview');
             <div class="fusion-social-links-footer">
               <div class="fusion-social-networks">
                 <div class="fusion-social-networks-wrapper">
-                  <a class="fusion-social-network-icon fusion-tooltip fusion-facebook fusion-icon-facebook" data-placement="top" data-title="Facebook" data-toggle="tooltip" href="https://www.facebook.com/purehempbotanicals/?fref=ts" style="color:#46494a;" target="_blank" title="Facebook"><span class="screen-reader-text">Facebook</span></a><a class="fusion-social-network-icon fusion-tooltip fusion-twitter fusion-icon-twitter" data-placement="top" data-title="Twitter" data-toggle="tooltip" href="https://twitter.com/PHBLife" style="color:#46494a;" target="_blank" title="Twitter"><span class="screen-reader-text">Twitter</span></a><a class="fusion-social-network-icon fusion-tooltip fusion-googleplus fusion-icon-googleplus" data-placement="top" data-title="Google+" data-toggle="tooltip" href="https://plus.google.com/108298665895139065923/posts" style="color:#46494a;" target="_blank" title="Google+"><span class="screen-reader-text">Google+</span></a><a class="fusion-social-network-icon fusion-tooltip fusion-youtube fusion-icon-youtube" data-placement="top" data-title="Youtube" data-toggle="tooltip" href="https://www.youtube.com/channel/UCsdiMh8LY8nIDVTQ_Sxasfg" style="color:#46494a;" target="_blank" title="Youtube"><span class="screen-reader-text">Youtube</span></a>
+                  <a class="fusion-social-network-icon fusion-tooltip fusion-facebook fusion-icon-facebook" data-placement="top" data-title="Facebook" data-toggle="tooltip" href="https://www.facebook.com" style="color:#46494a;" target="_blank" title="Facebook"><span class="screen-reader-text">Facebook</span></a><a class="fusion-social-network-icon fusion-tooltip fusion-twitter fusion-icon-twitter" data-placement="top" data-title="Twitter" data-toggle="tooltip" href="https://twitter.com" style="color:#46494a;" target="_blank" title="Twitter"><span class="screen-reader-text">Twitter</span></a><a class="fusion-social-network-icon fusion-tooltip fusion-googleplus fusion-icon-googleplus" data-placement="top" data-title="Google+" data-toggle="tooltip" href="https://plus.google.com" style="color:#46494a;" target="_blank" title="Google+"><span class="screen-reader-text">Google+</span></a><a class="fusion-social-network-icon fusion-tooltip fusion-youtube fusion-icon-youtube" data-placement="top" data-title="Youtube" data-toggle="tooltip" href="https://www.youtube.com" style="color:#46494a;" target="_blank" title="Youtube"><span class="screen-reader-text">Youtube</span></a>
                 </div>
               </div>
             </div>

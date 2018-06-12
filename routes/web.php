@@ -22,6 +22,11 @@ Route::get('/product/category/{id}', 'FrontendController@productcategory')->name
 Route::get('/product/subcategory/{id}', 'FrontendController@productsubcategory')->name('product_subcategory');
 Route::get('/product-details/{id}', 'FrontendController@productdetails')->name('product_details');
 Route::get('/sign', 'FrontendController@sign')->name('sign');
+Route::get('/cart', 'FrontendController@cart')->name('cart');
+Route::get('/mission', 'FrontendController@mission')->name('mission');
+Route::get('/contact', 'FrontendController@contact')->name('contact');
+Route::get('/faq', 'FrontendController@faq')->name('faq');
+Route::get('/disclosure', 'FrontendController@disclosure')->name('disclosure');
 Route::get('/sign-in', 'FrontendController@signin')->name('sign_in');
 Route::get('/sign-up', 'FrontendController@signup')->name('sign_up');
 
