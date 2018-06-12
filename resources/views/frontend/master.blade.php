@@ -50,11 +50,11 @@
   <link href="feed/index.html" rel="alternate" title="Pure Hemp Botanicals &raquo; Feed" type="application/rss+xml">
   <link href="comments/feed/index.html" rel="alternate" title="Pure Hemp Botanicals &raquo; Comments Feed" type="application/rss+xml">
   <link href="events/indexedf3.html?ical=1" rel="alternate" title="Pure Hemp Botanicals &raquo; iCal Feed" type="text/calendar">
-  <link href="wp-content/uploads/2016/07/favicon.ico" rel="shortcut icon" type="image/x-icon"><!-- For iPhone -->
-  <link href="wp-content/uploads/2016/07/apple-touch-icon.png" rel="apple-touch-icon-precomposed"><!-- For iPhone 4 Retina display -->
-  <link href="wp-content/uploads/2016/07/apple-touch-icon.png" rel="apple-touch-icon-precomposed" sizes="114x114"><!-- For iPad -->
-  <link href="wp-content/uploads/2016/07/apple-touch-icon.png" rel="apple-touch-icon-precomposed" sizes="72x72"><!-- For iPad Retina display -->
-  <link href="wp-content/uploads/2016/07/apple-touch-icon.png" rel="apple-touch-icon-precomposed" sizes="144x144">
+  <link href="{{url('wp-content/uploads/2016/07/favicon.ico')}}" rel="shortcut icon" type="image/x-icon"><!-- For iPhone -->
+  <link href="{{url('wp-content/uploads/2016/07/apple-touch-icon.png')}}" rel="apple-touch-icon-precomposed"><!-- For iPhone 4 Retina display -->
+  <link href="{{url('wp-content/uploads/2016/07/apple-touch-icon.png')}}" rel="apple-touch-icon-precomposed" sizes="114x114"><!-- For iPad -->
+  <link href="{{url('wp-content/uploads/2016/07/apple-touch-icon.png')}}" rel="apple-touch-icon-precomposed" sizes="72x72"><!-- For iPad Retina display -->
+  <link href="{{url('wp-content/uploads/2016/07/apple-touch-icon.png')}}" rel="apple-touch-icon-precomposed" sizes="144x144">
   <meta content="Home" property="og:title">
   <meta content="article" property="og:type">
   <meta content="https://purehempbotanicals.com/" property="og:url">
@@ -82,20 +82,20 @@
   <link href='../maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min474a.css?ver=4.4.0' id='xc-social-reward-font-awesome-css' media='all' rel='stylesheet' type='text/css'><!-- <link rel='stylesheet' id='xc-social-reward-main-css'  href='https://purehempbotanicals.com/wp-content/plugins/xcid-social-reward//assets/css/main.css?ver=1.2.26' type='text/css' media='all' /> -->
   <!-- <link rel='stylesheet' id='bcct_style-css'  href='https://purehempbotanicals.com/wp-content/plugins/better-click-to-tweet/assets/css/styles.css?ver=3.0' type='text/css' media='all' /> -->
   <!-- <link rel='stylesheet' id='rs-plugin-settings-css'  href='https://purehempbotanicals.com/wp-content/plugins/revslider/public/assets/css/settings.css?ver=5.4.7.4' type='text/css' media='all' /> -->
-  <link href="wp-content/cache/wpfc-minified/mlxxso0a/fmnk4.css" media="all" rel="stylesheet" type="text/css">
+  <link href="{{url('wp-content/cache/wpfc-minified/mlxxso0a/fmnk4.css')}}" media="all" rel="stylesheet" type="text/css">
   <style id='rs-plugin-settings-inline-css' type='text/css'>
   #rs-demo-id {}
   </style><!-- <link rel='stylesheet' id='rp-wcdpd-frontend-styles-css'  href='https://purehempbotanicals.com/wp-content/plugins/wc-dynamic-pricing-and-discounts/assets/css/style-frontend.css?ver=1.1' type='text/css' media='all' /> -->
-  <link href="wp-content/cache/wpfc-minified/l987u301/fmn29.css" media="all" rel="stylesheet" type="text/css">
+  <link href="{{url('wp-content/cache/wpfc-minified/l987u301/fmn29.css')}}" media="all" rel="stylesheet" type="text/css">
   <style id='woocommerce-inline-inline-css' type='text/css'>
   .woocommerce form .form-row .required { visibility: visible; }
   </style><!-- <link rel='stylesheet' id='avada-parent-stylesheet-css'  href='https://purehempbotanicals.com/wp-content/themes/Avada/style.css?ver=4.9.6' type='text/css' media='all' /> -->
   <!-- <link rel='stylesheet' id='avada-stylesheet-css'  href='https://purehempbotanicals.com/wp-content/themes/Avada-Child-Theme/style.css?ver=1.0.0' type='text/css' media='all' /> -->
-  <link href="wp-content/cache/wpfc-minified/frh6vzx3/fmn29.css" media="all" rel="stylesheet" type="text/css"><!--[if lte IE 9]>
+  <link href="{{url('wp-content/cache/wpfc-minified/frh6vzx3/fmn29.css')}}" media="all" rel="stylesheet" type="text/css"><!--[if lte IE 9]>
 <link rel='stylesheet' id='avada-shortcodes-css'  href='https://purehempbotanicals.com/wp-content/themes/Avada/shortcodes.css?ver=1.0.0' type='text/css' media='all' />
 <![endif]-->
   <!-- <link rel='stylesheet' id='fontawesome-css'  href='https://purehempbotanicals.com/wp-content/themes/Avada/assets/fonts/fontawesome/font-awesome.css?ver=1.0.0' type='text/css' media='all' /> -->
-  <link href="wp-content/cache/wpfc-minified/8hv7da2e/fmn29.css" media="all" rel="stylesheet" type="text/css"><!--[if lte IE 9]>
+  <link href="{{url('wp-content/cache/wpfc-minified/8hv7da2e/fmn29.css')}}" media="all" rel="stylesheet" type="text/css"><!--[if lte IE 9]>
 <link rel='stylesheet' id='avada-IE-fontawesome-css'  href='https://purehempbotanicals.com/wp-content/themes/Avada/assets/fonts/fontawesome/font-awesome.css?ver=1.0.0' type='text/css' media='all' />
 <![endif]-->
   <!--[if lte IE 8]>
@@ -108,7 +108,7 @@
   <!-- <link rel='stylesheet' id='avada-animations-css'  href='https://purehempbotanicals.com/wp-content/themes/Avada/animations.css?ver=1.0.0' type='text/css' media='all' /> -->
   <!-- <link rel='stylesheet' id='avada-woocommerce-css'  href='https://purehempbotanicals.com/wp-content/themes/Avada/assets/css/woocommerce.css?ver=1.0.0' type='text/css' media='all' /> -->
   <!-- <link rel='stylesheet' id='cart-tab-styles-css'  href='https://purehempbotanicals.com/wp-content/plugins/woocommerce-cart-tab/includes/../assets/css/style.css?ver=4.9.6' type='text/css' media='all' /> -->
-  <link href="wp-content/cache/wpfc-minified/8hvgm2y7/fmn29.css" media="all" rel="stylesheet" type="text/css">
+  <link href="{{url('wp-content/cache/wpfc-minified/8hvgm2y7/fmn29.css')}}" media="all" rel="stylesheet" type="text/css">
   <style id='cart-tab-styles-inline-css' type='text/css'>
   .woocommerce-cart-tab-container {
   background-color: #f8f8f8;
@@ -129,31 +129,31 @@
   fill: #333333;
   }
   </style>
-  <script src='wp-includes/js/jquery/jqueryb8ff.js?ver=1.12.4' type='text/javascript'>
+  <script src="{{url('wp-includes/js/jquery/jqueryb8ff.js?ver=1.12.4')}}" type='text/javascript'>
   </script>
-  <script src='wp-includes/js/jquery/jquery-migrate.min330a.js?ver=1.4.1' type='text/javascript'>
+  <script src="{{url('wp-includes/js/jquery/jquery-migrate.min330a.js?ver=1.4.1')}}" type='text/javascript'>
   </script>
-  <script src='wp-content/plugins/open-in-new-window-plugin/open_in_new_window_yes.js' type='text/javascript'>
+  <script src="{{url('wp-content/plugins/open-in-new-window-plugin/open_in_new_window_yes.js')}}" type='text/javascript'>
   </script>
-  <script src='wp-content/plugins/open-in-new-window-plugin/open_in_new_window.js' type='text/javascript'>
+  <script src="{{url('wp-content/plugins/open-in-new-window-plugin/open_in_new_window.js')}}" type='text/javascript'>
   </script>
-  <script src='wp-content/plugins/wc-dynamic-pricing-and-discounts/assets/js/scripts-frontend4963.js?ver=1.1' type='text/javascript'>
-  </script>
-  <script type='text/javascript'>
-  /* <![CDATA[ */
-  var frontendajax = {"ajaxurl":"https:\/\/purehempbotanicals.com\/wp-admin\/admin-ajax.php"};
-  /* ]]> */
-  </script>
-  <script src='wp-content/plugins/woo-nmi-three-step/js/stepOne1845.js?ver=4.9.6' type='text/javascript'>
+  <script src="{{url('wp-content/plugins/wc-dynamic-pricing-and-discounts/assets/js/scripts-frontend4963.js?ver=1.1')}}" type='text/javascript'>
   </script>
   <script type='text/javascript'>
   /* <![CDATA[ */
   var frontendajax = {"ajaxurl":"https:\/\/purehempbotanicals.com\/wp-admin\/admin-ajax.php"};
   /* ]]> */
   </script>
-  <script src='wp-content/plugins/woo-nmi-three-step/js/deletePaymentMethod1845.js?ver=4.9.6' type='text/javascript'>
+  <script src="{{url('wp-content/plugins/woo-nmi-three-step/js/stepOne1845.js?ver=4.9.6')}}" type='text/javascript'>
   </script>
-  <script src='wp-content/plugins/woocommerce-cart-tab/assets/js/cart-tab.min1845.js?ver=4.9.6' type='text/javascript'>
+  <script type='text/javascript'>
+  /* <![CDATA[ */
+  var frontendajax = {"ajaxurl":"https:\/\/purehempbotanicals.com\/wp-admin\/admin-ajax.php"};
+  /* ]]> */
+  </script>
+  <script src="{{url('wp-content/plugins/woo-nmi-three-step/js/deletePaymentMethod1845.js?ver=4.9.6')}}" type='text/javascript'>
+  </script>
+  <script src="{{url('wp-content/plugins/woocommerce-cart-tab/assets/js/cart-tab.min1845.js?ver=4.9.6')}}" type='text/javascript'>
   </script>
   <link href='wp-json/index.html' rel='https://api.w.org/'>
   <link href="xmlrpc0db0.html?rsd" rel="EditURI" title="RSD" type="application/rsd+xml">
@@ -234,9 +234,9 @@
 
   <script id='store-locator' src='https://maps.googleapis.com/maps/api/js?v=3&amp;language=en' type='text/javascript'>
   </script>
-  <script src='wp-content/plugins/store-locator/js/store-locator-jsc287.php?v=3.100&amp;nm=home&amp;p=4' type='text/javascript'>
+  <script src="url('wp-content/plugins/store-locator/js/store-locator-jsc287.php?v=3.100&amp;nm=home&amp;p=4')}}" type='text/javascript'>
   </script><!-- <link  href='https://purehempbotanicals.com/wp-content/plugins/store-locator/css/store-locator.css?v=3.100' type='text/css' rel='stylesheet'/> -->
-  <link href="wp-content/cache/wpfc-minified/jy7nuaeb/fmnk4.css" media="all" rel="stylesheet" type="text/css"><!-- ========= End WordPress Store Locator (5272,) ========== -->
+  <link href="url('wp-content/cache/wpfc-minified/jy7nuaeb/fmnk4.css')}}" media="all" rel="stylesheet" type="text/css"><!-- ========= End WordPress Store Locator (5272,) ========== -->
   <!--[if lte IE 8]>
 <script type="text/javascript">
 jQuery(document).ready(function() {
@@ -298,20 +298,20 @@ img.emoji {
 }
 </style>
 <link rel='stylesheet' id='xc-social-reward-font-awesome-css'  href='../maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min474a.css?ver=4.4.0' type='text/css' media='all' />
-<link rel='stylesheet' id='xc-social-reward-main-css'  href='wp-content/plugins/xcid-social-reward/assets/css/main84f3.css?ver=1.2.26' type='text/css' media='all' />
-<link rel='stylesheet' id='bcct_style-css'  href='wp-content/plugins/better-click-to-tweet/assets/css/styles6aec.css?ver=3.0' type='text/css' media='all' />
-<link rel='stylesheet' id='rs-plugin-settings-css'  href='wp-content/plugins/revslider/public/assets/css/settings26ce.css?ver=5.4.7.4' type='text/css' media='all' />
+<link rel='stylesheet' id='xc-social-reward-main-css'  href="{{url('wp-content/plugins/xcid-social-reward/assets/css/main84f3.css?ver=1.2.26')}}" type='text/css' media='all' />
+<link rel='stylesheet' id='bcct_style-css'  href="{{url('wp-content/plugins/better-click-to-tweet/assets/css/styles6aec.css?ver=3.0')}}" type='text/css' media='all' />
+<link rel='stylesheet' id='rs-plugin-settings-css'  href="{{url('wp-content/plugins/revslider/public/assets/css/settings26ce.css?ver=5.4.7.4')}}" type='text/css' media='all' />
 
-<link rel='stylesheet' id='rp-wcdpd-frontend-styles-css'  href='wp-content/plugins/wc-dynamic-pricing-and-discounts/assets/css/style-frontend4963.css?ver=1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='rp-wcdpd-frontend-styles-css'  href="{{url('wp-content/plugins/wc-dynamic-pricing-and-discounts/assets/css/style-frontend4963.css?ver=1.1')}}" type='text/css' media='all' />
 <style id='woocommerce-inline-inline-css' type='text/css'>
 .woocommerce form .form-row .required { visibility: visible; }
 </style>
-<link rel='stylesheet' id='avada-parent-stylesheet-css'  href='wp-content/themes/Avada/style1845.css?ver=4.9.6' type='text/css' media='all' />
-<link rel='stylesheet' id='avada-stylesheet-css'  href='wp-content/themes/Avada-Child-Theme/style8a54.css?ver=1.0.0' type='text/css' media='all' />
+<link rel='stylesheet' id='avada-parent-stylesheet-css'  href="{{url('wp-content/themes/Avada/style1845.css?ver=4.9.6')}}" type='text/css' media='all' />
+<link rel='stylesheet' id='avada-stylesheet-css'  href="{{url('wp-content/themes/Avada-Child-Theme/style8a54.css?ver=1.0.0')}}" type='text/css' media='all' />
 <!--[if lte IE 9]>
 <link rel='stylesheet' id='avada-shortcodes-css'  href='https://purehempbotanicals.com/wp-content/themes/Avada/shortcodes.css?ver=1.0.0' type='text/css' media='all' />
 <![endif]-->
-<link rel='stylesheet' id='fontawesome-css'  href='wp-content/themes/Avada/assets/fonts/fontawesome/font-awesome8a54.css?ver=1.0.0' type='text/css' media='all' />
+<link rel='stylesheet' id='fontawesome-css'  href="{{url('wp-content/themes/Avada/assets/fonts/fontawesome/font-awesome8a54.css?ver=1.0.0')}}" type='text/css' media='all' />
 <!--[if lte IE 9]>
 <link rel='stylesheet' id='avada-IE-fontawesome-css'  href='https://purehempbotanicals.com/wp-content/themes/Avada/assets/fonts/fontawesome/font-awesome.css?ver=1.0.0' type='text/css' media='all' />
 <![endif]-->
@@ -321,10 +321,10 @@ img.emoji {
 <!--[if IE]>
 <link rel='stylesheet' id='avada-IE-css'  href='https://purehempbotanicals.com/wp-content/themes/Avada/assets/css/ie.css?ver=1.0.0' type='text/css' media='all' />
 <![endif]-->
-<link rel='stylesheet' id='avada-iLightbox-css'  href='wp-content/themes/Avada/ilightbox8a54.css?ver=1.0.0' type='text/css' media='all' />
-<link rel='stylesheet' id='avada-animations-css'  href='wp-content/themes/Avada/animations8a54.css?ver=1.0.0' type='text/css' media='all' />
-<link rel='stylesheet' id='avada-woocommerce-css'  href='wp-content/themes/Avada/assets/css/woocommerce8a54.css?ver=1.0.0' type='text/css' media='all' />
-<link rel='stylesheet' id='cart-tab-styles-css'  href='wp-content/plugins/woocommerce-cart-tab/assets/css/style1845.css?ver=4.9.6' type='text/css' media='all' />
+<link rel='stylesheet' id='avada-iLightbox-css'  href="{{url('wp-content/themes/Avada/ilightbox8a54.css?ver=1.0.0')}}" type='text/css' media='all' />
+<link rel='stylesheet' id='avada-animations-css'  href="{{url('wp-content/themes/Avada/animations8a54.css?ver=1.0.0')}}" type='text/css' media='all' />
+<link rel='stylesheet' id='avada-woocommerce-css'  href="{{url('wp-content/themes/Avada/assets/css/woocommerce8a54.css?ver=1.0.0')}}" type='text/css' media='all' />
+<link rel='stylesheet' id='cart-tab-styles-css'  href="{{url('wp-content/plugins/woocommerce-cart-tab/assets/css/style1845.css?ver=4.9.6')}}" type='text/css' media='all' />
 <style id='cart-tab-styles-inline-css' type='text/css'>
 
       .woocommerce-cart-tab-container {
@@ -373,23 +373,23 @@ img.emoji {
 
 
 
-<link rel="stylesheet" type="text/css" href="wp-content/cache/wpfc-minified/mlxxso0a/fmnk4.css" media="all"/>
+<link rel="stylesheet" type="text/css" href="{{url('wp-content/cache/wpfc-minified/mlxxso0a/fmnk4.css')}} media="all"/>
 <style id='rs-plugin-settings-inline-css' type='text/css'>
 #rs-demo-id {}
 </style>
 <!-- <link rel='stylesheet' id='rp-wcdpd-frontend-styles-css'  href='https://purehempbotanicals.com/wp-content/plugins/wc-dynamic-pricing-and-discounts/assets/css/style-frontend.css?ver=1.1' type='text/css' media='all' /> -->
-<link rel="stylesheet" type="text/css" href="wp-content/cache/wpfc-minified/l987u301/fmn29.css" media="all"/>
+<link rel="stylesheet" type="text/css" href="{{url('wp-content/cache/wpfc-minified/l987u301/fmn29.css')}} media="all"/>
 <style id='woocommerce-inline-inline-css' type='text/css'>
 .woocommerce form .form-row .required { visibility: visible; }
 </style>
 <!-- <link rel='stylesheet' id='avada-parent-stylesheet-css'  href='https://purehempbotanicals.com/wp-content/themes/Avada/style.css?ver=4.9.6' type='text/css' media='all' /> -->
 <!-- <link rel='stylesheet' id='avada-stylesheet-css'  href='https://purehempbotanicals.com/wp-content/themes/Avada-Child-Theme/style.css?ver=1.0.0' type='text/css' media='all' /> -->
-<link rel="stylesheet" type="text/css" href="wp-content/cache/wpfc-minified/frh6vzx3/fmn29.css" media="all"/>
+<link rel="stylesheet" type="text/css" href="{{url('wp-content/cache/wpfc-minified/frh6vzx3/fmn29.css')}} media="all"/>
 <!--[if lte IE 9]>
 <link rel='stylesheet' id='avada-shortcodes-css'  href='https://purehempbotanicals.com/wp-content/themes/Avada/shortcodes.css?ver=1.0.0' type='text/css' media='all' />
 <![endif]-->
 <!-- <link rel='stylesheet' id='fontawesome-css'  href='https://purehempbotanicals.com/wp-content/themes/Avada/assets/fonts/fontawesome/font-awesome.css?ver=1.0.0' type='text/css' media='all' /> -->
-<link rel="stylesheet" type="text/css" href="wp-content/cache/wpfc-minified/8hv7da2e/fmn29.css" media="all"/>
+<link rel="stylesheet" type="text/css" href="{{url('wp-content/cache/wpfc-minified/8hv7da2e/fmn29.css')}} media="all"/>
 <!--[if lte IE 9]>
 <link rel='stylesheet' id='avada-IE-fontawesome-css'  href='https://purehempbotanicals.com/wp-content/themes/Avada/assets/fonts/fontawesome/font-awesome.css?ver=1.0.0' type='text/css' media='all' />
 <![endif]-->
@@ -403,7 +403,7 @@ img.emoji {
 <!-- <link rel='stylesheet' id='avada-animations-css'  href='https://purehempbotanicals.com/wp-content/themes/Avada/animations.css?ver=1.0.0' type='text/css' media='all' /> -->
 <!-- <link rel='stylesheet' id='avada-woocommerce-css'  href='https://purehempbotanicals.com/wp-content/themes/Avada/assets/css/woocommerce.css?ver=1.0.0' type='text/css' media='all' /> -->
 <!-- <link rel='stylesheet' id='cart-tab-styles-css'  href='https://purehempbotanicals.com/wp-content/plugins/woocommerce-cart-tab/includes/../assets/css/style.css?ver=4.9.6' type='text/css' media='all' /> -->
-<link rel="stylesheet" type="text/css" href="wp-content/cache/wpfc-minified/8hvgm2y7/fmn29.css" media="all"/>
+<link rel="stylesheet" type="text/css" href="{{url('wp-content/cache/wpfc-minified/8hvgm2y7/fmn29.css')}} media="all"/>
 <style id='cart-tab-styles-inline-css' type='text/css'>
 .woocommerce-cart-tab-container {
 background-color: #f8f8f8;
@@ -424,24 +424,24 @@ background-color: #333333;
 fill: #333333;
 }
 </style>
-<script type='text/javascript' src='wp-includes/js/jquery/jqueryb8ff.js?ver=1.12.4'></script>
-<script type='text/javascript' src='wp-includes/js/jquery/jquery-migrate.min330a.js?ver=1.4.1'></script>
-<script type='text/javascript' src='wp-content/plugins/open-in-new-window-plugin/open_in_new_window_yes.js'></script>
-<script type='text/javascript' src='wp-content/plugins/open-in-new-window-plugin/open_in_new_window.js'></script>
-<script type='text/javascript' src='wp-content/plugins/wc-dynamic-pricing-and-discounts/assets/js/scripts-frontend4963.js?ver=1.1'></script>
+<script type='text/javascript' src="{{url('wp-includes/js/jquery/jqueryb8ff.js?ver=1.12.4')}}></script>
+<script type='text/javascript' src="{{url('wp-includes/js/jquery/jquery-migrate.min330a.js?ver=1.4.1')}}></script>
+<script type='text/javascript' src="{{url('wp-content/plugins/open-in-new-window-plugin/open_in_new_window_yes.js')}}></script>
+<script type='text/javascript' src="{{url('wp-content/plugins/open-in-new-window-plugin/open_in_new_window.js')}}></script>
+<script type='text/javascript' src="{{url('wp-content/plugins/wc-dynamic-pricing-and-discounts/assets/js/scripts-frontend4963.js?ver=1.1')}}></script>
 <script type='text/javascript'>
 /* <![CDATA[ */
 var frontendajax = {"ajaxurl":"https:\/\/purehempbotanicals.com\/wp-admin\/admin-ajax.php"};
 /* ]]> */
 </script>
-<script type='text/javascript' src='wp-content/plugins/woo-nmi-three-step/js/stepOne1845.js?ver=4.9.6'></script>
+<script type='text/javascript' src="{{url('wp-content/plugins/woo-nmi-three-step/js/stepOne1845.js?ver=4.9.6')}}></script>
 <script type='text/javascript'>
 /* <![CDATA[ */
 var frontendajax = {"ajaxurl":"https:\/\/purehempbotanicals.com\/wp-admin\/admin-ajax.php"};
 /* ]]> */
 </script>
-<script type='text/javascript' src='wp-content/plugins/woo-nmi-three-step/js/deletePaymentMethod1845.js?ver=4.9.6'></script>
-<script type='text/javascript' src='wp-content/plugins/woocommerce-cart-tab/assets/js/cart-tab.min1845.js?ver=4.9.6'></script>
+<script type='text/javascript' src="{{url('wp-content/plugins/woo-nmi-three-step/js/deletePaymentMethod1845.js?ver=4.9.6')}}></script>
+<script type='text/javascript' src="{{url('wp-content/plugins/woocommerce-cart-tab/assets/js/cart-tab.min1845.js?ver=4.9.6')}}></script>
 <link rel='https://api.w.org/' href='wp-json/index.html' />
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="xmlrpc0db0.html?rsd" />
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="wp-includes/wlwmanifest.xml" /> 
@@ -624,14 +624,14 @@ ga('send', 'pageview');
                          @foreach($tempcategories as $categories)
                           <li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-10085 fusion-megamenu-submenu fusion-megamenu-columns-6 col-lg-2 col-md-2 col-sm-2" id="menu-item-10085">
                             <div class='fusion-megamenu-title'>
-                              <a href="product-category/mints/index.html">{{$categories->name}}</a>
+                              <a href="{{url('/product/category/'.$categories->id)}}">{{$categories->name}}</a>
                             </div>
                             <div class="fusion-megamenu-widgets-container second-level-widget">
                               <div class="widget widget_text" id="text-18">
                                 <div class="textwidget">
                                   <div class="imageframe-align-center">
                                     <div class="imageframe-liftup">
-                                      <span class="fusion-imageframe imageframe-none imageframe-5"><a class="fusion-no-lightbox" href="product-category/mints/index.html" target="_self"><img class="img-responsive wp-image-21966" height="600" sizes="(max-width: 800px) 100vw, 1860px" src="{{url('/'.$categories->image)}}" srcset="{{url('/'.$categories->image)}} 600w" width="600"></a></span>
+                                      <span class="fusion-imageframe imageframe-none imageframe-5"><a class="fusion-no-lightbox" href="{{url('/product/category/'.$categories->id)}}" target="_self"><img class="img-responsive wp-image-21966" height="600" sizes="(max-width: 800px) 100vw, 1860px" src="{{url('/'.$categories->image)}}" srcset="{{url('/'.$categories->image)}} 600w" width="600"></a></span>
                                     </div>
                                   </div>
                                 </div>
@@ -973,7 +973,7 @@ ga('send', 'pageview');
   <script>
   /* <![CDATA[ */var tribe_l10n_datatables = {"aria":{"sort_ascending":": activate to sort column ascending","sort_descending":": activate to sort column descending"},"length_menu":"Show _MENU_ entries","empty_table":"No data available in table","info":"Showing _START_ to _END_ of _TOTAL_ entries","info_empty":"Showing 0 to 0 of 0 entries","info_filtered":"(filtered from _MAX_ total entries)","zero_records":"No matching records found","search":"Search:","all_selected_text":"All items on this page were selected. ","select_all_link":"Select all pages","clear_selection":"Clear Selection.","pagination":{"all":"All","next":"Next","previous":"Previous"},"select":{"rows":{"0":"","_":": Selected %d rows","1":": Selected 1 row"}},"datepicker":{"dayNames":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"dayNamesShort":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],"dayNamesMin":["S","M","T","W","T","F","S"],"monthNames":["January","February","March","April","May","June","July","August","September","October","November","December"],"monthNamesShort":["January","February","March","April","May","June","July","August","September","October","November","December"],"nextText":"Next","prevText":"Prev","currentText":"Today","closeText":"Done"}};/* ]]> */ 
   </script><!-- <link rel='stylesheet' property='stylesheet' id='rs-icon-set-fa-icon-css'  href='https://purehempbotanicals.com/wp-content/plugins/revslider/public/assets/fonts/font-awesome/css/font-awesome.css' type='text/css' media='all' /> -->
-  <link href="wp-content/cache/wpfc-minified/6xl56s1k/fmnk4.css" media="all" rel="stylesheet" type="text/css">
+  <link href="{{url('wp-content/cache/wpfc-minified/6xl56s1k/fmnk4.css')}}" media="all" rel="stylesheet" type="text/css">
   <script type="text/javascript">
   var c = document.body.className;
   c = c.replace(/woocommerce-no-js/, 'woocommerce-js');
@@ -989,38 +989,38 @@ ga('send', 'pageview');
   jQuery(sliderID).show().html(errorMessage);
   }
   </script> 
-  <script src='wp-content/plugins/woocommerce/assets/js/select2/select2.full.minfa0c.js?ver=4.0.3' type='text/javascript'>
+  <script src="{{url('wp-content/plugins/woocommerce/assets/js/select2/select2.full.minfa0c.js?ver=4.0.3')}}" type='text/javascript'>
   </script> 
-  <script src='wp-content/plugins/xcid-social-reward/assets/js/admin/settings84f3.js?ver=1.2.26' type='text/javascript'>
+  <script src="{{url('wp-content/plugins/xcid-social-reward/assets/js/admin/settings84f3.js?ver=1.2.26')}}" type='text/javascript'>
   </script> 
   <script type='text/javascript'>
   /* <![CDATA[ */
   var xc_social_reward_global_params = {"debug":""};
   /* ]]> */
   </script> 
-  <script src='wp-content/plugins/xcid-social-reward/assets/js/front/main84f3.js?ver=1.2.26' type='text/javascript'>
+  <script src="{{url('wp-content/plugins/xcid-social-reward/assets/js/front/main84f3.js?ver=1.2.26')}}" type='text/javascript'>
   </script> 
-  <script src='wp-content/plugins/revslider/public/assets/js/jquery.themepunch.tools.min26ce.js?ver=5.4.7.4' type='text/javascript'>
+  <script src="{{url('wp-content/plugins/revslider/public/assets/js/jquery.themepunch.tools.min26ce.js?ver=5.4.7.4')}}" type='text/javascript'>
   </script> 
-  <script src='wp-content/plugins/revslider/public/assets/js/jquery.themepunch.revolution.min26ce.js?ver=5.4.7.4' type='text/javascript'>
+  <script src="{{url('wp-content/plugins/revslider/public/assets/js/jquery.themepunch.revolution.min26ce.js?ver=5.4.7.4')}}" type='text/javascript'>
   </script> 
-  <script src='wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min44fd.js?ver=2.70' type='text/javascript'>
+  <script src="{{url('wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min44fd.js?ver=2.70')}}" type='text/javascript'>
   </script> 
-  <script src='wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.min6b25.js?ver=2.1.4' type='text/javascript'>
+  <script src="{{url('wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.min6b25.js?ver=2.1.4')}}" type='text/javascript'>
   </script> 
   <script type='text/javascript'>
   /* <![CDATA[ */
   var woocommerce_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%"};
   /* ]]> */
   </script> 
-  <script src='wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min5589.js?ver=3.4.1' type='text/javascript'>
+  <script src="{{url('wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min5589.js?ver=3.4.1')}}" type='text/javascript'>
   </script> 
   <script type='text/javascript'>
   /* <![CDATA[ */
   var wc_cart_fragments_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%","cart_hash_key":"wc_cart_hash_d93a313e46406ebd281697079421e836","fragment_name":"wc_fragments_d93a313e46406ebd281697079421e836"};
   /* ]]> */
   </script> 
-  <script src='wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min5589.js?ver=3.4.1' type='text/javascript'>
+  <script src="{{url('wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min5589.js?ver=3.4.1')}}" type='text/javascript'>
   </script> 
   <script type='text/javascript'>
   /* <![CDATA[ */
@@ -1028,9 +1028,9 @@ ga('send', 'pageview');
   var js_local_vars = {"admin_ajax":"https:\/\/purehempbotanicals.com\/wp-admin\/admin-ajax.php","admin_ajax_nonce":"f333cf1fbf","protocol":"1","theme_url":"https:\/\/purehempbotanicals.com\/wp-content\/themes\/Avada","dropdown_goto":"Go to...","mobile_nav_cart":"Shopping Cart","page_smoothHeight":"false","flex_smoothHeight":"false","language_flag":"en","infinite_blog_finished_msg":"<em>All posts displayed.<\/em>","infinite_finished_msg":"<em>All items displayed.<\/em>","infinite_blog_text":"<em>Loading the next set of posts...<\/em>","portfolio_loading_text":"<em>Loading Portfolio Items...<\/em>","faqs_loading_text":"<em>Loading FAQ Items...<\/em>","order_actions":"Details","avada_rev_styles":"1","avada_styles_dropdowns":"1","blog_grid_column_spacing":"40","blog_pagination_type":"Pagination","carousel_speed":"2500","counter_box_speed":"1000","content_break_point":"800","disable_mobile_animate_css":"0","disable_mobile_image_hovers":"1","portfolio_pagination_type":"Pagination","form_bg_color":"#ffffff","header_transparency":"0","header_padding_bottom":"0px","header_padding_top":"0px","header_position":"Top","header_sticky":"1","header_sticky_tablet":"0","header_sticky_mobile":"0","header_sticky_type2_layout":"menu_and_logo","sticky_header_shrinkage":"1","is_responsive":"1","is_ssl":"true","isotope_type":"masonry","layout_mode":"wide","lightbox_animation_speed":"Normal","lightbox_arrows":"1","lightbox_autoplay":"0","lightbox_behavior":"all","lightbox_desc":"1","lightbox_deeplinking":"1","lightbox_gallery":"1","lightbox_opacity":"0.90","lightbox_path":"vertical","lightbox_post_images":"1","lightbox_skin":"metro-white","lightbox_slideshow_speed":"5000","lightbox_social":"1","lightbox_title":"1","lightbox_video_height":"720","lightbox_video_width":"1280","logo_alignment":"Left","logo_margin_bottom":"5px","logo_margin_top":"5px","megamenu_max_width":"1100","mobile_menu_design":"modern","nav_height":"95","nav_highlight_border":"0","page_title_fading":"0","pagination_video_slide":"0","related_posts_speed":"2500","submenu_slideout":"1","side_header_break_point":"800","sidenav_behavior":"Hover","site_width":"1100px","slider_position":"below","slideshow_autoplay":"1","slideshow_speed":"7000","smooth_scrolling":"0","status_lightbox":"1","status_totop_mobile":"1","status_vimeo":"1","status_yt":"0","testimonials_speed":"4000","tfes_animation":"sides","tfes_autoplay":"1","tfes_interval":"3000","tfes_speed":"800","tfes_width":"150","title_style_type":"double","title_margin_top":"0px","title_margin_bottom":"31px","typography_responsive":"0","typography_sensitivity":"0.6","typography_factor":"1.5","woocommerce_shop_page_columns":"4","woocommerce_checkout_error":"Not all fields have been filled in correctly.","side_header_width":"0"};
   /* ]]> */
   </script> 
-  <script async src='wp-content/themes/Avada/assets/js/main.min8a54.js?ver=1.0.0' type='text/javascript'>
+  <script async src="{{url('wp-content/themes/Avada/assets/js/main.min8a54.js?ver=1.0.0')}}" type='text/javascript'>
   </script> 
-  <script src='wp-includes/js/wp-embed.min1845.js?ver=4.9.6' type='text/javascript'>
+  <script src="{{url('wp-includes/js/wp-embed.min1845.js?ver=4.9.6')}}" type='text/javascript'>
   </script> 
   <script type="text/javascript">
   (function(e,a){
@@ -1215,38 +1215,38 @@ var c = document.body.className;
 c = c.replace(/woocommerce-no-js/, 'woocommerce-js');
 document.body.className = c;
 </script>
-<script type='text/javascript' src='wp-content/plugins/woocommerce/assets/js/select2/select2.full.minfa0c.js?ver=4.0.3'></script>
-<script type='text/javascript' src='wp-content/plugins/xcid-social-reward/assets/js/admin/settings84f3.js?ver=1.2.26'></script>
+<script type='text/javascript' src='wp-content/plugins/woocommerce/assets/js/select2/select2.full.minfa0c.js?ver=4.0.3')}}"></script>
+<script type='text/javascript' src='wp-content/plugins/xcid-social-reward/assets/js/admin/settings84f3.js?ver=1.2.26')}}"></script>
 <script type='text/javascript'>
 /* <![CDATA[ */
 var xc_social_reward_global_params = {"debug":""};
 /* ]]> */
 </script>
-<script type='text/javascript' src='wp-content/plugins/xcid-social-reward/assets/js/front/main84f3.js?ver=1.2.26'></script>
-<script type='text/javascript' src='wp-content/plugins/revslider/public/assets/js/jquery.themepunch.tools.min26ce.js?ver=5.4.7.4'></script>
-<script type='text/javascript' src='wp-content/plugins/revslider/public/assets/js/jquery.themepunch.revolution.min26ce.js?ver=5.4.7.4'></script>
-<script type='text/javascript' src='wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min44fd.js?ver=2.70'></script>
-<script type='text/javascript' src='wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.min6b25.js?ver=2.1.4'></script>
+<script type='text/javascript' src="{{url('wp-content/plugins/xcid-social-reward/assets/js/front/main84f3.js?ver=1.2.26')}}"></script>
+<script type='text/javascript' src="{{url('wp-content/plugins/revslider/public/assets/js/jquery.themepunch.tools.min26ce.js?ver=5.4.7.4')}}"></script>
+<script type='text/javascript' src="{{url('wp-content/plugins/revslider/public/assets/js/jquery.themepunch.revolution.min26ce.js?ver=5.4.7.4')}}"></script>
+<script type='text/javascript' src="{{url('wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min44fd.js?ver=2.70')}}"></script>
+<script type='text/javascript' src="{{url('wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.min6b25.js?ver=2.1.4')}}"></script>
 <script type='text/javascript'>
 /* <![CDATA[ */
 var woocommerce_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%"};
 /* ]]> */
 </script>
-<script type='text/javascript' src='wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min6b00.js?ver=3.4.0'></script>
+<script type='text/javascript' src="{{url('wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min6b00.js?ver=3.4.0')}}"></script>
 <script type='text/javascript'>
 /* <![CDATA[ */
 var wc_cart_fragments_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%","cart_hash_key":"wc_cart_hash_d93a313e46406ebd281697079421e836","fragment_name":"wc_fragments_d93a313e46406ebd281697079421e836"};
 /* ]]> */
 </script>
-<script type='text/javascript' src='wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min6b00.js?ver=3.4.0'></script>
+<script type='text/javascript' src="{{url('wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min6b00.js?ver=3.4.0')}}"></script>
 <script type='text/javascript'>
 /* <![CDATA[ */
 var toTopscreenReaderText = {"label":"Go to Top"};
 var js_local_vars = {"admin_ajax":"https:\/\/purehempbotanicals.com\/wp-admin\/admin-ajax.php","admin_ajax_nonce":"3332954925","protocol":"1","theme_url":"https:\/\/purehempbotanicals.com\/wp-content\/themes\/Avada","dropdown_goto":"Go to...","mobile_nav_cart":"Shopping Cart","page_smoothHeight":"false","flex_smoothHeight":"false","language_flag":"en","infinite_blog_finished_msg":"<em>All posts displayed.<\/em>","infinite_finished_msg":"<em>All items displayed.<\/em>","infinite_blog_text":"<em>Loading the next set of posts...<\/em>","portfolio_loading_text":"<em>Loading Portfolio Items...<\/em>","faqs_loading_text":"<em>Loading FAQ Items...<\/em>","order_actions":"Details","avada_rev_styles":"1","avada_styles_dropdowns":"1","blog_grid_column_spacing":"40","blog_pagination_type":"Pagination","carousel_speed":"2500","counter_box_speed":"1000","content_break_point":"800","disable_mobile_animate_css":"0","disable_mobile_image_hovers":"1","portfolio_pagination_type":"Pagination","form_bg_color":"#ffffff","header_transparency":"0","header_padding_bottom":"0px","header_padding_top":"0px","header_position":"Top","header_sticky":"1","header_sticky_tablet":"0","header_sticky_mobile":"0","header_sticky_type2_layout":"menu_and_logo","sticky_header_shrinkage":"1","is_responsive":"1","is_ssl":"true","isotope_type":"masonry","layout_mode":"wide","lightbox_animation_speed":"Normal","lightbox_arrows":"1","lightbox_autoplay":"0","lightbox_behavior":"all","lightbox_desc":"1","lightbox_deeplinking":"1","lightbox_gallery":"1","lightbox_opacity":"0.90","lightbox_path":"vertical","lightbox_post_images":"1","lightbox_skin":"metro-white","lightbox_slideshow_speed":"5000","lightbox_social":"1","lightbox_title":"1","lightbox_video_height":"720","lightbox_video_width":"1280","logo_alignment":"Left","logo_margin_bottom":"5px","logo_margin_top":"5px","megamenu_max_width":"1100","mobile_menu_design":"modern","nav_height":"95","nav_highlight_border":"0","page_title_fading":"0","pagination_video_slide":"0","related_posts_speed":"2500","submenu_slideout":"1","side_header_break_point":"800","sidenav_behavior":"Hover","site_width":"1100px","slider_position":"below","slideshow_autoplay":"1","slideshow_speed":"7000","smooth_scrolling":"0","status_lightbox":"1","status_totop_mobile":"1","status_vimeo":"1","status_yt":"0","testimonials_speed":"4000","tfes_animation":"sides","tfes_autoplay":"1","tfes_interval":"3000","tfes_speed":"800","tfes_width":"150","title_style_type":"double","title_margin_top":"0px","title_margin_bottom":"31px","typography_responsive":"0","typography_sensitivity":"0.6","typography_factor":"1.5","woocommerce_shop_page_columns":"4","woocommerce_checkout_error":"Not all fields have been filled in correctly.","side_header_width":"0"};
 /* ]]> */
 </script>
-<script type='text/javascript' src='wp-content/themes/Avada/assets/js/main.min8a54.js?ver=1.0.0' async ></script> 
-<script type='text/javascript' src='wp-includes/js/wp-embed.min1845.js?ver=4.9.6'></script>
+<script type='text/javascript' src="{{url('wp-content/themes/Avada/assets/js/main.min8a54.js?ver=1.0.0')}}" async ></script> 
+<script type='text/javascript' src="{{url('wp-includes/js/wp-embed.min1845.js?ver=4.9.6')}}"></script>
 <script type="text/javascript">
 (function(e,a){
 var t,r=e.getElementsByTagName("head")[0],c=e.location.protocol;
