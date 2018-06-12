@@ -573,7 +573,7 @@ ga('send', 'pageview');
           <div class="fusion-row">
             <div class="fusion-alignleft">
               <div class="fusion-contact-info">
-                <a class="fusion-social-network-icon fusion-tooltip fusion-facebook fusion-icon-facebook" data-original-title="Facebook" data-placement="bottom" data-title="" data-toggle="tooltip" href="https://www.facebook.com/purehempbotanicals/?fref=ts" style="color:#FFFFFF;" target="_blank" title=""><span class="screen-reader-text">Facebook</span></a><a class="fusion-social-network-icon fusion-tooltip fusion-twitter fusion-icon-twitter" data-original-title="Twitter" data-placement="bottom" data-title="" data-toggle="tooltip" href="https://twitter.com/PHBLife" style="color:#575c61;" target="_blank" title=""><span class="screen-reader-text">Twitter</span></a>Contact Us 1-844-443-6764<a href="mailto:"></a>
+                <a class="fusion-social-network-icon fusion-tooltip fusion-facebook fusion-icon-facebook" data-original-title="Facebook" data-placement="bottom" data-title="" data-toggle="tooltip" href="https://www.facebook.com" style="color:#FFFFFF;" target="_blank" title=""><span class="screen-reader-text">Facebook</span></a><a class="fusion-social-network-icon fusion-tooltip fusion-twitter fusion-icon-twitter" data-original-title="Twitter" data-placement="bottom" data-title="" data-toggle="tooltip" href="https://twitter.com" style="color:#575c61;" target="_blank" title=""><span class="screen-reader-text">Twitter</span></a>Contact Us 1-844-443-6764<a href="mailto:"></a>
               </div>
             </div>
             <div class="fusion-alignright">
@@ -607,7 +607,7 @@ ga('send', 'pageview');
         <div class="fusion-header">
           <div class="fusion-row">
             <div class="fusion-logo" data-margin-bottom="5px" data-margin-left="0px" data-margin-right="0px" data-margin-top="5px">
-              <a class="fusion-logo-link" href="index.html"><img alt="Pure Hemp Botanicals" class="fusion-logo-1x fusion-standard-logo" height="170" src="{{url('wp-content/uploads/2016/04/logo-high-res170x170-transparent.png')}}" width="170"> <img alt="Pure Hemp Botanicals" class="fusion-standard-logo fusion-logo-2x" height="170" src="{{url('wp-content/uploads/2016/04/logo-high-res170x170-transparent.png')}}" style="max-height: 170px; height: auto;" width="170"> <!-- mobile logo -->
+              <a class="fusion-logo-link" href="{{url('/')}}"><img alt="Pure Hemp Botanicals" class="fusion-logo-1x fusion-standard-logo" height="170" src="{{url('wp-content/uploads/2016/04/logo-high-res170x170-transparent.png')}}" width="170"> <img alt="Pure Hemp Botanicals" class="fusion-standard-logo fusion-logo-2x" height="170" src="{{url('wp-content/uploads/2016/04/logo-high-res170x170-transparent.png')}}" style="max-height: 170px; height: auto;" width="170"> <!-- mobile logo -->
               <img alt="Pure Hemp Botanicals" class="fusion-logo-1x fusion-mobile-logo-1x" height="50" src="{{url('wp-content/uploads/2016/04/mobile-logo-small.png')}}" width="187"> <img alt="Pure Hemp Botanicals" class="fusion-logo-2x fusion-mobile-logo-2x" height="50" src="{{url('wp-content/uploads/2016/04/mobile-logo.png')}}" style="max-height: 50px; height: auto;" width="187"> <!-- sticky header logo -->
               <img alt="Pure Hemp Botanicals" class="fusion-logo-1x fusion-sticky-logo-1x" height="85" src="{{url('wp-content/uploads/2016/04/logo-high-res170x170-transparent-small.png')}}" width="85"> <img alt="Pure Hemp Botanicals" class="fusion-logo-2x fusion-sticky-logo-2x" height="85" src="{{url('wp-content/uploads/2016/04/logo-high-res170x170-transparent-small.png')}}" style="max-height: 85px; height: auto;" width="85"></a>
             </div>
@@ -668,22 +668,7 @@ ga('send', 'pageview');
             <div class="fusion-main-menu fusion-sticky-menu">
               <ul class="fusion-menu" id="menu-main-menu-1">
                 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-62">
-                  <a href="shopping-cart/index.html"><span class="menu-text">Shopping Cart</span></a>
-                </li>
-                <li class="fusion-custom-menu-item fusion-main-menu-search">
-                  <a class="fusion-main-menu-icon"></a>
-                  <div class="fusion-custom-menu-item-contents">
-                    <form action="https://purehempbotanicals.com/" class="searchform" method="get" role="search">
-                      <div class="search-table">
-                        <div class="search-field">
-                          <input class="s" name="s" placeholder="Search ..." type="text" value="">
-                        </div>
-                        <div class="search-button">
-                          <input class="searchsubmit" type="submit" value="&#xf002;">
-                        </div>
-                      </div>
-                    </form>
-                  </div>
+                  <a href="{{url('/cart')}}"><span class="menu-text">Shopping Cart</span></a>
                 </li>
               </ul>
             </div>

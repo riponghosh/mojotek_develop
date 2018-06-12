@@ -380,7 +380,7 @@
                   <div class="fusion-button-wrapper fusion-aligncenter">
                     <style scoped="scoped" type="text/css">
                     .fusion-button.button-3 .fusion-button-text, .fusion-button.button-3 i {color:#ffffff;}.fusion-button.button-3 {border-width:1px;border-color:#ffffff;}.fusion-button.button-3 .fusion-button-icon-divider{border-color:#ffffff;}.fusion-button.button-3:hover .fusion-button-text, .fusion-button.button-3:hover i,.fusion-button.button-3:focus .fusion-button-text, .fusion-button.button-3:focus i,.fusion-button.button-3:active .fusion-button-text, .fusion-button.button-3:active{color:#ffffff;}.fusion-button.button-3:hover, .fusion-button.button-3:focus, .fusion-button.button-3:active{border-width:1px;border-color:#ffffff;}.fusion-button.button-3:hover .fusion-button-icon-divider, .fusion-button.button-3:hover .fusion-button-icon-divider, .fusion-button.button-3:active .fusion-button-icon-divider{border-color:#ffffff;}.fusion-button.button-3{background: #a0ce4e;}.fusion-button.button-3:hover,.button-3:focus,.fusion-button.button-3:active{background: #96c346;}.fusion-button.button-3{width:auto;}
-                    </style><a class="fusion-button button-flat button-round button-large button-default button-3" href="join-us/index.html" target="_self"><span class="fusion-button-text">CLICK HERE TO SIGNUP NOW!</span></a>
+                    </style><a class="fusion-button button-flat button-round button-large button-default button-3" href="{{url('/login')}}" target="_self"><span class="fusion-button-text">CLICK HERE TO SIGNUP NOW!</span></a>
                   </div>
                   <p></p>
                 </div>

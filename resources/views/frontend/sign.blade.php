@@ -4,103 +4,62 @@
 
 
 @section('content')
- 	<div class="site-wrapper">
-      
-
-
-
-
-<section class="site-content">
-  <div class="">
-    <div class="container">
-      
-
-    <div class="u-ui-margin-vertical-x-large js-notification">
-      <div class="c-cell--wide c-cell">
-    <div class="c-cell__image"><div class="c-icon--large c-icon--cs3 c-icon"><svg width="24" height="24" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-  <path d="M32 64c17.673 0 32-14.327 32-32 0-17.673-14.327-32-32-32-17.673 0-32 14.327-32 32 0 17.673 14.327 32 32 32zm-4-45.995c0-2.212 1.795-4.005 4-4.005 2.209 0 4 1.792 4 4.005v2.064c0 3.931-1.815 17.931-4 17.931-1.914 0-4-13.882-4-17.931v-2.063zm0 27.995c0-2.209 1.795-4 4-4 2.209 0 4 1.795 4 4 0 2.209-1.795 4-4 4-2.209 0-4-1.795-4-4z"></path>
-</svg>
-</div></div>
-
-  <div class="c-cell__content">
-
-
-      <div class="c-cell__body">
-        By continuing to use Sweetkandi, you agree to our delicious <a href="../../cookie-policy.html">cookie policy</a> to help to make your Sweetkandi experience even better.
-</div>
-
-  </div>
-
-    <div class="c-cell__suffix"><button name="button" type="button" class="c-button--normal c-button--medium c-button js-close-notification js-cookie-consent"><span class="c-button__content">Close</span></button></div>
-
-  
-</div>    </div>
-
-    </div>
-
-    <div class="row">
-      <section id="content" class="grid12 site-content__content-section">
-        <div class="body-content">
-            
-            
-            
-
-            <div class="c-spacer--xxx-large c-spacer"></div>
-<div class="narrow-container js-sign-in-dialog">
-  <div class="c-card">
-    <div class="u-ui-padding-x-large">
-      
-
-      <div class="c-spacer--x-large c-spacer"></div>
-
-        <div class="c-text--heading c-text--parent c-text--center c-text">Join Sweetkandi</div>
-<div class="c-spacer--xx-large c-spacer"></div>
-<div class="c-text--body c-text--center c-text">Sell pre-loved clothes with 0% fees. Join now!</div>
-
-
-      <div class="c-spacer--xxx-large c-spacer"></div>
-
-      <div class="u-ui-margin-top-large">
-  <a class="c-button--facebook c-button--normal c-button js-facebook-login hidden" data-registration-source="null" data-track="null" data-redirect-url="null" href="https://www.facebook.com/v2.1/dialog/oauth?app_id=615069491882290&amp;redirect_uri=https%3A%2F%2Fwww.Sweetkandi.co.uk%2Fmember%2Ffacebook%2Ffacebook_login&amp;scope=email%2Cuser_friends"><span class="c-button__content">Continue with Facebook</span></a>
-
-  <div class="c-spacer--x-large c-spacer hidden"></div>
-  <button name="button" type="button" class="c-button--google c-button--normal c-button js-google-auth hidden" data-redirect-url="null"><span class="c-button__content">Continue with Google</span></button>
-
-  <div class="c-spacer--x-large c-spacer"></div>
-  <div class="u-flexbox">
-    <div class="u-flex-grow">
-      <a class="c-button--inverse c-button--normal c-button--amplified c-button " href="{{url('/sign-up')}}"><span class="c-button__content">Sign Up</span></a>
-    </div>
-
-    <div>
-      <hr class="c-divider--vertical c-divider" />
-    </div>
-
-    <div class="u-flex-grow">
-      <a class="c-button--inverse c-button--normal c-button--amplified c-button " href="{{url('/sign-in')}}"><span class="c-button__content">Log In</span></a>
-    </div>
-  </div>
-</div>
-
-    </div>
-</div>
-</div>
-
+ 	<div id="sliders-container"></div>
+    <div class="fusion-page-title-bar fusion-page-title-bar-breadcrumbs fusion-page-title-bar-left">
+      <div class="fusion-page-title-row">
+        <div class="fusion-page-title-wrapper">
+          <div class="fusion-page-title-captions">
+            <h1 class="entry-title">My Account</h1>
+          </div>
+          <div class="fusion-page-title-secondary">
+            <div class="fusion-breadcrumbs">
+              <span itemscope itemtype="http://data-vocabulary.org/Breadcrumb"><a href="../index.html" itemprop="url"><span itemprop="title">Home</span></a></span><span class="fusion-breadcrumb-sep">/</span><span itemscope itemtype="http://data-vocabulary.org/Breadcrumb"><a href="../shop/index.html" itemprop="url"><span itemprop="title">Shop</span></a></span><span class="fusion-breadcrumb-sep">/</span><span class="breadcrumb-leaf">My Account</span>
+            </div>
+          </div>
         </div>
-
-        
-      </section>
-
+      </div>
     </div>
-
-    
-  </div>
-</section>
-
-      
-
-    </div>
-  </div>
+    <div class="clearfix" id="main" style="">
+      <div class="fusion-row" style="">
+        <div id="content" style="width: 100%;">
+          <div class="post-50 page type-page status-publish hentry" id="post-50">
+            <span class="entry-title" style="display: none;">My Account</span> <span class="vcard" style="display: none;"><span class="fn"><a href="../author/alexs/index.html" rel="author" title="Posts by Alex">Alex</a></span></span> <span class="updated" style="display:none;">2016-07-15T02:02:21+00:00</span>
+            <div class="post-content">
+              <div class="woocommerce">
+                @if($errors)
+                <ul class="woocommerce-error" role="alert">
+                    <li><strong>ERROR</strong>: The username or password you entered is incorrect.</li>
+                </ul>
+                @endif
+                <div class="u-columns col2-set" id="customer_login">
+                  <div class="u-column1 col-1">
+                    <h2>Login</h2>
+                    <form class="woocommerce-form woocommerce-form-login login" method="post" action="{{ route('login') }}">
+                      {{ csrf_field() }}
+                      <p class="woocommerce-form-row woocommerce-form-row--wide form-row form-row-wide"><label for="email">Username or email address&nbsp;<span class="required">*</span></label> <input autocomplete="email" class="woocommerce-Input woocommerce-Input--text input-text" id="username" name="email" type="text" value=""></p>
+                      <p class="woocommerce-form-row woocommerce-form-row--wide form-row form-row-wide"><label for="password">Password&nbsp;<span class="required">*</span></label> <input autocomplete="current-password" class="woocommerce-Input woocommerce-Input--text input-text" id="password" name="password" type="password"></p>
+                      <p class="form-row"><input id="woocommerce-login-nonce" name="woocommerce-login-nonce" type="hidden" value="82e556f5cb"><input name="_wp_http_referer" type="hidden" value="/my-account/"> <button class="woocommerce-Button button" name="login" type="submit" value="Log in">Log in</button> <label class="woocommerce-form__label woocommerce-form__label-for-checkbox inline"><input class="woocommerce-form__input woocommerce-form__input-checkbox" id="rememberme" name="rememberme" type="checkbox" value="forever"> <span>Remember me</span></label></p>
+                      <p class="woocommerce-LostPassword lost_password"><a href="lost-password/index.html">Lost your password?</a></p>
+                    </form>
+                  </div>
+                  <div class="u-column2 col-2">
+                    <h2>Register</h2>
+                    <form class="woocommerce-form woocommerce-form-register register" method="post"  action="{{ route('register') }}">
+                      {{ csrf_field() }}
+                      <p class="woocommerce-form-row woocommerce-form-row--wide form-row form-row-wide"><label for="reg_username">Username&nbsp;<span class="required">*</span></label> <input autocomplete="username" class="woocommerce-Input woocommerce-Input--text input-text" id="reg_username" name="username" type="text" value=""></p>
+                      <p class="woocommerce-form-row woocommerce-form-row--wide form-row form-row-wide"><label for="reg_email">Email address&nbsp;<span class="required">*</span></label> <input autocomplete="email" class="woocommerce-Input woocommerce-Input--text input-text" id="reg_email" name="email" type="email" value=""></p>
+                      <p class="woocommerce-form-row woocommerce-form-row--wide form-row form-row-wide"><label for="reg_password">Password&nbsp;<span class="required">*</span></label> <input autocomplete="new-password" class="woocommerce-Input woocommerce-Input--text input-text" id="reg_password" name="password" type="password"></p>
+                      <div class="woocommerce-privacy-policy-text"></div>
+                      <p class="woocommerce-FormRow form-row"><input id="woocommerce-register-nonce" name="woocommerce-register-nonce" type="hidden" value="c189c82b9a"><input name="_wp_http_referer" type="hidden" value="/my-account/"> <button class="woocommerce-Button button" name="register" type="submit" value="Register">Register</button></p>
+                    </form>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div><!--WPFC_FOOTER_START-->
+      </div><!-- fusion-row -->
+    </div><!-- #main -->
 @endsection
 @section('scripts')
     
