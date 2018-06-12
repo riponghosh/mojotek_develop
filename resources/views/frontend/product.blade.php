@@ -177,6 +177,19 @@
       </div><!-- fusion-row -->
     </div><!-- #main -->
 @endsection
+@section('styles')
+    <script id='store-locator' src='https://maps.googleapis.com/maps/api/js?v=3&amp;language=en' type='text/javascript'>
+  </script>
+  <script src="{{url('wp-content/plugins/store-locator/js/store-locator-js5423.php?v=3.100&amp;nm=chocolate-mints&amp;p=10047')}}" type='text/javascript'>
+  </script>
+  <link href="{{url('wp-content/plugins/store-locator/css/store-locator324a.css?v=3.100')}}" rel='stylesheet' type='text/css'><!-- ========= End WordPress Store Locator (5272,) ========== -->
+@endsection
 @section('scripts')
-    
+    <script type='text/javascript'>
+  /* <![CDATA[ */
+  var wc_single_product_params = {"i18n_required_rating_text":"Please select a rating","review_rating_required":"yes","flexslider":{"rtl":false,"animation":"slide","smoothHeight":true,"directionNav":false,"controlNav":"thumbnails","slideshow":false,"animationSpeed":500,"animationLoop":false,"allowOneSlide":false},"zoom_enabled":"","zoom_options":[],"photoswipe_enabled":"","photoswipe_options":{"shareEl":false,"closeOnScroll":false,"history":false,"hideAnimationDuration":0,"showAnimationDuration":0},"flexslider_enabled":""};
+  /* ]]> */
+  </script> 
+  <script src="{{url('wp-content/plugins/woocommerce/assets/js/frontend/single-product.min5589.js?ver=3.4.1')}}" type='text/javascript'>
+  </script> 
 @endsection
