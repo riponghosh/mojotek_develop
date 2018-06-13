@@ -30,26 +30,26 @@
   <script>
   (window.gaDevIds=window.gaDevIds||[]).push('5CDcaG');
   </script><!-- This site is optimized with the Yoast SEO plugin v7.5.3 - https://yoast.com/wordpress/plugins/seo/ -->
-  <meta content="Pure Hemp Botanicals offers only the highest quality, 3rd party tested CBD Oil based products. With our cutting edge extraction process we have raised in..." name="description">
+  <meta content="13 Pastures  offers only the highest quality, 3rd party tested CBD Oil based products. With our cutting edge extraction process we have raised in..." name="description">
   <link href="index.html" rel="canonical">
   <meta content="en_US" property="og:locale">
   <meta content="website" property="og:type">
-  <meta content="Home - Pure Hemp Botanicals" property="og:title">
-  <meta content="Pure Hemp Botanicals offers only the highest quality, 3rd party tested CBD Oil based products. With our cutting edge extraction process we have raised in..." property="og:description">
+  <meta content="Home - 13 Pastures " property="og:title">
+  <meta content="13 Pastures  offers only the highest quality, 3rd party tested CBD Oil based products. With our cutting edge extraction process we have raised in..." property="og:description">
   <meta content="https://purehempbotanicals.com/" property="og:url">
-  <meta content="Pure Hemp Botanicals" property="og:site_name">
+  <meta content="13 Pastures " property="og:site_name">
   <meta content="summary" name="twitter:card">
-  <meta content="Pure Hemp Botanicals offers only the highest quality, 3rd party tested CBD Oil based products. With our cutting edge extraction process we have raised in..." name="twitter:description">
-  <meta content="Home - Pure Hemp Botanicals" name="twitter:title">
+  <meta content="13 Pastures  offers only the highest quality, 3rd party tested CBD Oil based products. With our cutting edge extraction process we have raised in..." name="twitter:description">
+  <meta content="Home - 13 Pastures " name="twitter:title">
   <meta content="https://purehempbotanicals.com/wp-content/uploads/2017/03/Subscription-Table-Hompage1-1024x658.png" name="twitter:image">
   <script type='application/ld+json'>
-  {"@context":"https:\/\/schema.org","@type":"WebSite","@id":"#website","url":"https:\/\/purehempbotanicals.com\/","name":"Pure Hemp Botanicals","potentialAction":{"@type":"SearchAction","target":"https:\/\/purehempbotanicals.com\/?s={search_term_string}","query-input":"required name=search_term_string"}}
+  {"@context":"https:\/\/schema.org","@type":"WebSite","@id":"#website","url":"https:\/\/purehempbotanicals.com\/","name":"13 Pastures ","potentialAction":{"@type":"SearchAction","target":"https:\/\/purehempbotanicals.com\/?s={search_term_string}","query-input":"required name=search_term_string"}}
   </script><!-- / Yoast SEO plugin. -->
   <link href='http://maxcdn.bootstrapcdn.com/' rel='dns-prefetch'>
   <link href='http://s.w.org/' rel='dns-prefetch'>
-  <link href="feed/index.html" rel="alternate" title="Pure Hemp Botanicals &raquo; Feed" type="application/rss+xml">
-  <link href="comments/feed/index.html" rel="alternate" title="Pure Hemp Botanicals &raquo; Comments Feed" type="application/rss+xml">
-  <link href="events/indexedf3.html?ical=1" rel="alternate" title="Pure Hemp Botanicals &raquo; iCal Feed" type="text/calendar">
+  <link href="feed/index.html" rel="alternate" title="13 Pastures  &raquo; Feed" type="application/rss+xml">
+  <link href="comments/feed/index.html" rel="alternate" title="13 Pastures  &raquo; Comments Feed" type="application/rss+xml">
+  <link href="events/indexedf3.html?ical=1" rel="alternate" title="13 Pastures  &raquo; iCal Feed" type="text/calendar">
   <link href="{{url('wp-content/uploads/2016/07/favicon.ico')}}" rel="shortcut icon" type="image/x-icon"><!-- For iPhone -->
   <link href="{{url('wp-content/uploads/2016/07/apple-touch-icon.png')}}" rel="apple-touch-icon-precomposed"><!-- For iPhone 4 Retina display -->
   <link href="{{url('wp-content/uploads/2016/07/apple-touch-icon.png')}}" rel="apple-touch-icon-precomposed" sizes="114x114"><!-- For iPad -->
@@ -58,8 +58,8 @@
   <meta content="Home" property="og:title">
   <meta content="article" property="og:type">
   <meta content="https://purehempbotanicals.com/" property="og:url">
-  <meta content="Pure Hemp Botanicals" property="og:site_name">
-  <meta content="Pure From Soil to Oil YOUR HEALTH IS OUR PASSION Our Mission: Compassion in Action A healthy plant requires strong roots in order to grow. At Pure Hemp Botanicals, everything we do is driven by the root mantra of “Compassion in Action”. From the hemp plants" property="og:description">
+  <meta content="13 Pastures " property="og:site_name">
+  <meta content="Pure From Soil to Oil YOUR HEALTH IS OUR PASSION Our Mission: Compassion in Action A healthy plant requires strong roots in order to grow. At 13 Pastures , everything we do is driven by the root mantra of “Compassion in Action”. From the hemp plants" property="og:description">
   <meta content="https://purehempbotanicals.com/wp-content/uploads/2016/04/logo-high-res170x170-transparent.png" property="og:image">
   <script type="text/javascript">
   window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.4\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.4\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/purehempbotanicals.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.9.6"}};
@@ -573,7 +573,7 @@ ga('send', 'pageview');
           <div class="fusion-row">
             <div class="fusion-alignleft">
               <div class="fusion-contact-info">
-                <a class="fusion-social-network-icon fusion-tooltip fusion-facebook fusion-icon-facebook" data-original-title="Facebook" data-placement="bottom" data-title="" data-toggle="tooltip" href="https://www.facebook.com" style="color:#FFFFFF;" target="_blank" title=""><span class="screen-reader-text">Facebook</span></a><a class="fusion-social-network-icon fusion-tooltip fusion-twitter fusion-icon-twitter" data-original-title="Twitter" data-placement="bottom" data-title="" data-toggle="tooltip" href="https://twitter.com" style="color:#575c61;" target="_blank" title=""><span class="screen-reader-text">Twitter</span></a>Contact Us 1-844-443-6764<a href="mailto:"></a>
+                <a class="fusion-social-network-icon fusion-tooltip fusion-facebook fusion-icon-facebook" data-original-title="Facebook" data-placement="bottom" data-title="" data-toggle="tooltip" href="https://www.facebook.com" style="color:#FFFFFF;" target="_blank" title=""><span class="screen-reader-text">Facebook</span></a><a class="fusion-social-network-icon fusion-tooltip fusion-twitter fusion-icon-twitter" data-original-title="Twitter" data-placement="bottom" data-title="" data-toggle="tooltip" href="https://twitter.com" style="color:#575c61;" target="_blank" title=""><span class="screen-reader-text">Twitter</span></a>Contact Us (888) 603-6033<a href="mailto:"></a>
               </div>
             </div>
             <div class="fusion-alignright">
@@ -607,9 +607,9 @@ ga('send', 'pageview');
         <div class="fusion-header">
           <div class="fusion-row">
             <div class="fusion-logo" data-margin-bottom="5px" data-margin-left="0px" data-margin-right="0px" data-margin-top="5px">
-              <a class="fusion-logo-link" href="{{url('/')}}"><img alt="Pure Hemp Botanicals" class="fusion-logo-1x fusion-standard-logo" height="170" src="{{url('wp-content/uploads/2016/04/logo-high-res170x170-transparent.png')}}" width="170"> <img alt="Pure Hemp Botanicals" class="fusion-standard-logo fusion-logo-2x" height="170" src="{{url('wp-content/uploads/2016/04/logo-high-res170x170-transparent.png')}}" style="max-height: 170px; height: auto;" width="170"> <!-- mobile logo -->
-              <img alt="Pure Hemp Botanicals" class="fusion-logo-1x fusion-mobile-logo-1x" height="50" src="{{url('wp-content/uploads/2016/04/mobile-logo-small.png')}}" width="187"> <img alt="Pure Hemp Botanicals" class="fusion-logo-2x fusion-mobile-logo-2x" height="50" src="{{url('wp-content/uploads/2016/04/mobile-logo.png')}}" style="max-height: 50px; height: auto;" width="187"> <!-- sticky header logo -->
-              <img alt="Pure Hemp Botanicals" class="fusion-logo-1x fusion-sticky-logo-1x" height="85" src="{{url('wp-content/uploads/2016/04/logo-high-res170x170-transparent-small.png')}}" width="85"> <img alt="Pure Hemp Botanicals" class="fusion-logo-2x fusion-sticky-logo-2x" height="85" src="{{url('wp-content/uploads/2016/04/logo-high-res170x170-transparent-small.png')}}" style="max-height: 85px; height: auto;" width="85"></a>
+              <a class="fusion-logo-link" href="{{url('/')}}"><img alt="13 Pastures " class="fusion-logo-1x fusion-standard-logo" height="170" src="{{url('images/page1.png')}}" width="170"> <img alt="13 Pastures " class="fusion-standard-logo fusion-logo-2x" height="170" src="{{url('images/page1.png')}}" style="max-height: 170px; height: auto;" width="170"> <!-- mobile logo -->
+              <img alt="13 Pastures " class="fusion-logo-1x fusion-mobile-logo-1x" height="50" src="{{url('images/page1.png')}}" width="187"> <img alt="13 Pastures " class="fusion-logo-2x fusion-mobile-logo-2x" height="50" src="{{url('images/page1.png')}}" style="max-height: 50px; height: auto;" width="187"> <!-- sticky header logo -->
+              <img alt="13 Pastures " class="fusion-logo-1x fusion-sticky-logo-1x" height="85" src="{{url('images/page1.png')}}" width="85"> <img alt="13 Pastures " class="fusion-logo-2x fusion-sticky-logo-2x" height="85" src="{{url('images/page1.png')}}" style="max-height: 85px; height: auto;" width="85"></a>
             </div>
             <div class="fusion-main-menu">
               <ul class="fusion-menu" id="menu-main">
@@ -691,13 +691,13 @@ ga('send', 'pageview');
               <div class="fusion-footer-widget-column widget widget_text" id="text-2">
                 <h4 class="widget-title">CUSTOMER SERVICE</h4>
                 <div class="textwidget">
-                  Advanced Extraction<br>
-                  18072 County Road 4<br>
-                  Brighton, CO 80603<br>
-                  1-844-443-6764<br>
-                  info@purehempbotanicals.com<br>
+                  MTEK Gear, LLC<br>
+                  2903 West New Haven Ave<br>
+                  West Melbourne, FL 32904<br>
+                  (888) 603-6033<br>
+                  13pasturesinfo@gmail.com<br>
                   <br>
-                  Pure Hemp Botanicals, a Division of Advanced Extraction, LLC
+                  13 Pastures , MTEK Gear, LLC
                 </div>
                 <div style="clear:both;"></div>
               </div>
@@ -747,14 +747,18 @@ ga('send', 'pageview');
                     <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-143" id="menu-item-143">
                       <a href="{{url('/privacy-policy')}}">Privacy</a>
                     </li>
-                    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-142" id="menu-item-142">
-                      <a href="returns/index.html">Returns</a>
-                    </li>
                     <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-141" id="menu-item-141">
                       <a href="shipping/index.html">Shipping</a>
                     </li>
                     <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-140" id="menu-item-140">
                       <a href="{{url('/terms-and-conditions')}}">Terms of Service</a>
+                    </li>
+                    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-140" id="menu-item-140">
+                      <a href="{{url('/why-13p')}}">Why 13p</a>
+                    </li>
+
+                    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-142" id="menu-item-142">
+                      <a href="returns/index.html">Returns</a>
                     </li>
                   </ul>
                 </div>
@@ -770,7 +774,7 @@ ga('send', 'pageview');
           <div class="fusion-copyright-content">
             <div class="fusion-copyright-notice">
               <div>
-                © Copyright Pure Hemp Botanicals™ and Advanced Extraction, LLC, 2018. The statements made regarding these products have not been evaluated by the Food and Drug Administration. The efficiency of these products has not been confirmed by FDA-approved research. These products are not intended to diagnose, treat, cure or prevent any disease. All information presented here is not meant as a substitute for or alternative to information from health care practitioners. If you are taking any medication or are under treatment for any disease, please consult your health care professional about potential interactions or other possible complications before using these products. The Federal Food, Drug and Cosmetic Act requires this notice.
+                © Copyright 13 Pastures ™ and MTEK Gear, LLC, 2018.
               </div>
             </div>
             <div class="fusion-social-links-footer">
@@ -909,7 +913,7 @@ ga('send', 'pageview');
   adapter.attr("wp_visitor_type", "logged out");
   adapter.attr("wp_visitor_login_status", "logged out");
   adapter.attr("wp_visitor_id", "0");
-  adapter.attr("wp_page_title", "Home - Pure Hemp Botanicals");
+  adapter.attr("wp_page_title", "Home - 13 Pastures ");
   adapter.attr("wp_post_type", "page");
   adapter.attr("wp_post_type_with_prefix", "single page");
   adapter.attr("wp_post_categories", "");
@@ -1124,7 +1128,7 @@ adapter.attr("wp_referrer", "Direct");
 adapter.attr("wp_visitor_type", "logged out");
 adapter.attr("wp_visitor_login_status", "logged out");
 adapter.attr("wp_visitor_id", "0");
-adapter.attr("wp_page_title", "News - Pure Hemp Botanicals");
+adapter.attr("wp_page_title", "News - 13 Pastures ");
 adapter.attr("wp_post_type", "page");
 adapter.attr("wp_post_type_with_prefix", "single page");
 adapter.attr("wp_post_categories", "");

@@ -16,7 +16,8 @@ Route::get('/how-it-works', 'FrontendController@howitworks')->name('how_it_works
 Route::get('/about', 'FrontendController@about')->name('about');
 Route::get('/infoboard', 'FrontendController@infoboard')->name('infoboard');
 Route::get('/terms-and-conditions', 'FrontendController@termsandconditions')->name('terms-and-conditions');
-Route::get('/privacy-policy', 'FrontendController@privacypolicy')->name('privacy-policy');
+Route::get('/why-13p', 'FrontendController@why13p')->name('why-13p');
+Route::get('/privacy-policy', 'FrontendController@privacypolicy')->name('privacy-policy'); 
 Route::get('/product', 'FrontendController@allproduct')->name('all-product');
 Route::get('/product/category/{id}', 'FrontendController@productcategory')->name('product_category');
 Route::get('/product/subcategory/{id}', 'FrontendController@productsubcategory')->name('product_subcategory');

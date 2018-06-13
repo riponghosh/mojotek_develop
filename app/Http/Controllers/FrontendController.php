@@ -61,6 +61,11 @@ class FrontendController extends Controller
         return view('frontend.terms_and_conditions');
     }
 
+    public function why13p()
+    {
+        return view('frontend.why13p');
+    }
+
     public function privacypolicy()
     {
         return view('frontend.privacy_policy');

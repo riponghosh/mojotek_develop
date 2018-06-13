@@ -13,7 +13,7 @@
 					</div>
 					<div class="fusion-page-title-secondary">
 						<div class="fusion-breadcrumbs">
-							<span itemscope itemtype="http://data-vocabulary.org/Breadcrumb"><a href="../../index.html" itemprop="url"><span itemprop="title">Home</span></a></span><span class="fusion-breadcrumb-sep">/</span><span itemscope itemtype="http://data-vocabulary.org/Breadcrumb"><a href="../index.html" itemprop="url"><span itemprop="title">About</span></a></span><span class="fusion-breadcrumb-sep">/</span><span class="breadcrumb-leaf">Contact Us</span>
+							<span itemscope itemtype="http://data-vocabulary.org/Breadcrumb"><a href="{{url('/')}}" itemprop="url"><span itemprop="title">Home</span></a></span><span class="fusion-breadcrumb-sep">/</span><span itemscope itemtype="http://data-vocabulary.org/Breadcrumb"><a href="{{url('/about')}}" itemprop="url"><span itemprop="title">About</span></a></span><span class="fusion-breadcrumb-sep">/</span><span class="breadcrumb-leaf">Contact Us</span>
 						</div>
 					</div>
 				</div>
@@ -23,15 +23,15 @@
 			<div class="fusion-row" style="">
 				<div id="content" style="width: 100%;">
 					<div class="post-25 page type-page status-publish hentry" id="post-25">
-						<span class="entry-title" style="display: none;">Contact Us</span> <span class="vcard" style="display: none;"><span class="fn"><a href="../../author/alexs/index.html" rel="author" title="Posts by Alex">Alex</a></span></span> <span class="updated" style="display:none;">2016-07-15T02:02:21+00:00</span>
+						<span class="entry-title" style="display: none;">Contact Us</span> 
 						<div class="post-content">
-							<p>1600 Broadway, Suite 1600 Denver, CO 80202</p>
-							<p>1-844-443-6764</p>
+							<p>2903 West New Haven Ave<br>
+							West Melbourne, FL 32904</p>
+							<p>(888) 603-6033</p>
 							<p>Email:</p>
-							<p><a href="mailto:customerservice@purehempbotanicals.com">customerservice@purehempbotanicals.com</a></p>
+							<p><a href="mailto:13pasturesinfo@gmail.com">13pasturesinfo@gmail.com</a></p>
 							<p>&nbsp;</p>
-							<p>Wholesale:</p>
-							<p><a href="mailto:sales@purehempbotanicals.com">sales@purehempbotanicals.com</a></p>
+							<p>Effective as of January 01, 2017</p>
 						</div>
 					</div>
 				</div>

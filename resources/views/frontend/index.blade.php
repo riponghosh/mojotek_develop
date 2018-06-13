@@ -102,7 +102,7 @@
                   </div>
                   <script src="../player.vimeo.com/api/player.js">
                   </script>
-                  <p><a href="https://vimeo.com/266636971">Pure Hemp Botanicals - Who We Are!</a> from <a href="https://vimeo.com/user84408044">Pure Hemp Botanicals</a> on <a href="https://vimeo.com/">Vimeo</a>.</p>
+                  <p><a href="https://vimeo.com/266636971">13 Pastures  - Who We Are!</a> from <a href="https://vimeo.com/user84408044">13 Pastures </a> on <a href="https://vimeo.com/">Vimeo</a>.</p>
                 </div>
               </div>
               <div class="fusion-fullwidth fullwidth-box fusion-fullwidth-2 fusion-parallax-none nonhundred-percent-fullwidth" style="border-color:#eae9e9;border-bottom-width: 0px;border-top-width: 0px;border-bottom-style: solid;border-top-style: solid;padding-bottom:20px;padding-top:0px;padding-left:30px;padding-right:30px;padding-left:30px !important;padding-right:30px !important;background-color:rgba(255,255,255,0);">
@@ -194,7 +194,7 @@
                   <div class="fusion-title title fusion-sep-none fusion-title-center fusion-title-size-one" style="margin-top:0px;margin-bottom:31px;">
                     <h1 class="title-heading-center">Our Mission: Compassion in Action</h1>
                   </div>
-                  <h2 style="text-align: center;"><span style="color: #ffffff;">A healthy plant requires strong roots in order to grow. At Pure Hemp Botanicals, everything we do is driven by the root mantra of “Compassion in Action”. From the hemp plants we grow organically to the cruelty free, vegan products we produce, everything is done with the idea that by working and living with the best interests of our environment and our community in mind, we can inspire others to do the same. We strive to put compassion into action every step of the way.</span></h2>
+                  <h2 style="text-align: center;"><span style="color: #ffffff;">A healthy plant requires strong roots in order to grow. At 13 Pastures , everything we do is driven by the root mantra of “Compassion in Action”. From the hemp plants we grow organically to the cruelty free, vegan products we produce, everything is done with the idea that by working and living with the best interests of our environment and our community in mind, we can inspire others to do the same. We strive to put compassion into action every step of the way.</span></h2>
                   <p style="text-align: center;"></p>
                   <div class="fusion-button-wrapper fusion-aligncenter">
                     <style scoped="scoped" type="text/css">

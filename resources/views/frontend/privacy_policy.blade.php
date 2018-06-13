@@ -13,7 +13,7 @@
           </div>
           <div class="fusion-page-title-secondary">
             <div class="fusion-breadcrumbs">
-              <span itemscope itemtype="http://data-vocabulary.org/Breadcrumb"><a href="../index.html" itemprop="url"><span itemprop="title">Home</span></a></span><span class="fusion-breadcrumb-sep">/</span><span class="breadcrumb-leaf">Privacy</span>
+              <span itemscope itemtype="http://data-vocabulary.org/Breadcrumb"><a href="{{url('/')}}"  itemprop="url"><span itemprop="title">Home</span></a></span><span class="fusion-breadcrumb-sep">/</span><span class="breadcrumb-leaf">Privacy</span>
             </div>
           </div>
         </div>
@@ -23,28 +23,63 @@
       <div class="fusion-row" style="">
         <div id="content" style="width: 100%;">
           <div class="post-132 page type-page status-publish hentry" id="post-132">
-            <span class="entry-title" style="display: none;">Privacy</span> <span class="vcard" style="display: none;"><span class="fn"><a href="../author/alexs/index.html" rel="author" title="Posts by Alex">Alex</a></span></span> <span class="updated" style="display:none;">2016-07-15T02:02:21+00:00</span>
             <div class="post-content">
               <!-- ATOSPP version: 1.8.2, my_privacy_policy -->
               <h2 class='auto-tos-pp ppheading' id='atospp-privacy'>Privacy Policy:</h2>
-              <p>Advanced Extractions, LLC (&quot;<strong>Pure Hemp Botanicals</strong>&quot;) operates purehempbotanicals.com and may operate other websites. It is Pure Hemp Botanicals' policy to respect your privacy regarding any information we may collect while operating our websites.</p>
-              <h3>Website Visitors</h3>
-              <p>Like most website operators, Pure Hemp Botanicals collects non-personally-identifying information of the sort that web browsers and servers typically make available, such as the browser type, language preference, referring site, and the date and time of each visitor request. Pure Hemp Botanicals' purpose in collecting non-personally identifying information is to better understand how Pure Hemp Botanicals' visitors use its website. From time to time, Pure Hemp Botanicals may release non-personally-identifying information in the aggregate, e.g., by publishing a report on trends in the usage of its website.</p>
-              <p>Pure Hemp Botanicals also collects potentially personally-identifying information like Internet Protocol (IP) addresses for logged in users and for users leaving comments on purehempbotanicals.com blogs/sites. Pure Hemp Botanicals only discloses logged in user and commenter IP addresses under the same circumstances that it uses and discloses personally-identifying information as described below, except that commenter IP addresses and email addresses are visible and disclosed to the administrators of the blog/site where the comment was left.</p>
-              <h3>Gathering of Personally-Identifying Information</h3>
-              <p>Certain visitors to Pure Hemp Botanicals' websites choose to interact with Pure Hemp Botanicals in ways that require Pure Hemp Botanicals to gather personally-identifying information. The amount and type of information that Pure Hemp Botanicals gathers depends on the nature of the interaction. For example, we ask visitors who sign up at <a href="../index.html">purehempbotanicals.com</a> to provide a username and email address. Those who engage in transactions with Pure Hemp Botanicals are asked to provide additional information, including as necessary the personal and financial information required to process those transactions. In each case, Pure Hemp Botanicals collects such information only insofar as is necessary or appropriate to fulfill the purpose of the visitor's interaction with Pure Hemp Botanicals. Pure Hemp Botanicals does not disclose personally-identifying information other than as described below. And visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain website-related activities.</p>
-              <h3>Aggregated Statistics</h3>
-              <p>Pure Hemp Botanicals may collect statistics about the behavior of visitors to its websites. Pure Hemp Botanicals may display this information publicly or provide it to others. However, Pure Hemp Botanicals does not disclose personally-identifying information other than as described below.</p>
-              <h3>Protection of Certain Personally-Identifying Information</h3>
-              <p>Pure Hemp Botanicals discloses potentially personally-identifying and personally-identifying information only to those of its employees, contractors and affiliated organizations that (i) need to know that information in order to process it on Pure Hemp Botanicals' behalf or to provide services available at Pure Hemp Botanicals' websites, and (ii) that have agreed not to disclose it to others. Some of those employees, contractors and affiliated organizations may be located outside of your home country; by using Pure Hemp Botanicals' websites, you consent to the transfer of such information to them. Pure Hemp Botanicals will not rent or sell potentially personally-identifying and personally-identifying information to anyone. Other than to its employees, contractors and affiliated organizations, as described above, Pure Hemp Botanicals discloses potentially personally-identifying and personally-identifying information only in response to a subpoena, court order or other governmental request, or when Pure Hemp Botanicals believes in good faith that disclosure is reasonably necessary to protect the property or rights of Pure Hemp Botanicals, third parties or the public at large. If you are a registered user of an Pure Hemp Botanicals website and have supplied your email address, Pure Hemp Botanicals may occasionally send you an email to tell you about new features, solicit your feedback, or just keep you up to date with what's going on with Pure Hemp Botanicals and our products. If you send us a request (for example via email or via one of our feedback mechanisms), we reserve the right to publish it in order to help us clarify or respond to your request or to help us support other users. Pure Hemp Botanicals takes all measures reasonably necessary to protect against the unauthorized access, use, alteration or destruction of potentially personally-identifying and personally-identifying information.</p>
-              <h3>Cookies</h3>
-              <p>A cookie is a string of information that a website stores on a visitor's computer, and that the visitor's browser provides to the website each time the visitor returns. Pure Hemp Botanicals uses cookies to help Pure Hemp Botanicals identify and track visitors, their usage of Pure Hemp Botanicals website, and their website access preferences. Pure Hemp Botanicals visitors who do not wish to have cookies placed on their computers should set their browsers to refuse cookies before using Pure Hemp Botanicals' websites, with the drawback that certain features of Pure Hemp Botanicals' websites may not function properly without the aid of cookies.</p>
-              <h3>Business Transfers</h3>
-              <p>If Pure Hemp Botanicals, or substantially all of its assets, were acquired, or in the unlikely event that Pure Hemp Botanicals goes out of business or enters bankruptcy, user information would be one of the assets that is transferred or acquired by a third party. You acknowledge that such transfers may occur, and that any acquirer of Pure Hemp Botanicals may continue to use your personal information as set forth in this policy.</p>
-              <h3>Ads</h3>
-              <p>Ads appearing on any of our websites may be delivered to users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This Privacy Policy covers the use of cookies by Pure Hemp Botanicals and does not cover the use of cookies by any advertisers.</p>
-              <h3>Privacy Policy Changes</h3>
-              <p>Although most changes are likely to be minor, Pure Hemp Botanicals may change its Privacy Policy from time to time, and in Pure Hemp Botanicals' sole discretion. Pure Hemp Botanicals encourages visitors to frequently check this page for any changes to its Privacy Policy. If you have a purehempbotanicals.com account, you might also receive an alert informing you of these changes. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change.</p>
+              <p>Protecting your private information is our priority. This Statement of Privacy applies to <a href="www.13pastures.com">www.13pastures.com</a> and MTEK Gear, LLC and governs data collection and usage. For the purposes of this Privacy Policy, unless otherwise noted, all references to MTEK Gear, LLC include <a href="www.13pastures.com">www.13pastures.com</a> and MTEK Gear, LLC. The 13 Pastures website is an ecommerce site. By using the 13 Pastures website, you consent to the data practices described in this statement.
+              </p>
+              <h3>Collection of your Personal Information</h3>
+              <p>13 Pastures may collect personally identifiable information, such as your:<br>
+              – Name<br>
+              – Address<br>
+              – E-mail Address<br>
+              – Phone Number<br>
+              If you purchase 13 Pastures products and services, we collect billing and credit card information. This information is used to complete the purchase transaction.<br>
+              Please keep in mind that if you directly disclose personally identifiable information or personally sensitive data through 13 Pastures public message boards, this information may be collected and used by others.<br>
+              13 Pastures encourages you to review the privacy statements of websites you choose to link to from 13 Pastures so that you can understand how those websites collect, use and share your information. 13 Pastures is not responsible for the privacy statements or other content on websites outside of the 13 Pastures website.
+
+              </p>
+              <h3>Use of your Personal Information</h3>
+              <p>13 Pastures collects and uses your personal information to operate its website(s) and deliver the services you have requested.<br>
+              13 Pastures may also use your personally identifiable information to inform you of other products or services available from 13 Pastures and its affiliates. 13 Pastures may also contact you via surveys to conduct research about your opinion of current services or of potential new services that may be offered.
+              13 Pastures does not sell, rent or lease its customer lists to third parties.<br>
+              13 Pastures may share data with trusted partners to help perform statistical analysis, send you email or postal mail, provide customer support, or arrange for deliveries. All such third parties are prohibited from using your personal information except to provide these services to 13 Pastures, and they are required to maintain the confidentiality of your information.<br>
+              13 Pastures will disclose your personal information, without notice, only if required to do so by law or in the good faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with legal process served on 13 Pastures or the site; (b) protect and defend the rights or property of Hemp & Heal; and, (c) act under exigent circumstances to protect the personal safety of users of 13 Pastures, or the public.
+              </p>
+              <h3>Automatically Collected Information</h3>
+              <p>Information about your computer hardware and software may be automatically collected by Hemp & Heal. This information can include: your IP address, browser type, domain names, access times and referring website addresses. This information is used for the operation of the service, to maintain quality of the service, and to provide general statistics regarding use of the 13 Pastures website.</p>
+
+              <h3>Use of Cookies</h3>
+              <p>The 13 Pastures website may use “cookies” to help you personalize your online experience. A cookie is a text file that is placed on your hard disk by a web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a web server in the domain that issued the cookie to you.<br>
+              One of the primary purposes of cookies is to provide a convenience feature to save you time. The purpose of a cookie is to tell the Web server that you have returned to a specific page. For example, if you personalize 13 Pastures pages, or register with 13 Pastures site or services, a cookie helps 13 Pastures to recall your specific information on subsequent visits. This simplifies the process of recording your personal information, such as billing addresses, shipping addresses, and so on. When you return to the same 13 Pastures website, the information you previously provided can be retrieved, so you can easily use the 13 Pastures features that you customized.<br>
+              You have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you choose to decline cookies, you may not be able to fully experience the interactive features of the 13 Pastures services or websites you visit.
+              </p>
+              <h3>Security of your Personal Information</h3>
+              <p>13 Pastures secures your personal information from unauthorized access, use, or disclosure. 13 Pastures uses the following methods for this purpose:<br>
+              – SSL Protocol<br>
+              When personal information (such as a credit card number) is transmitted to other websites, it is protected through the use of encryption, such as the Secure Sockets Layer (SSL) protocol.
+              </p>
+              <h3>Children Under Thirteen</h3>
+              <p>13 Pastures does not knowingly collect personally identifiable information from children under the age of thirteen. If you are under the age of thirteen, you must ask your parent or guardian for permission to use this website.</p>
+              <h3>Opt-Out & Unsubscribe</h3>
+              <p>We respect your privacy and give you an opportunity to opt-out of receiving announcements of certain information. Users may opt-out of receiving any or all communications from 13 Pastures by contacting us here:<br>
+              – Email: info13@gmail.com<br>
+              – Phone: (352) 729-3282</p>
+              <h3>Changes to this Statement</h3>
+              <p>13 Pastures will occasionally update this Statement of Privacy to reflect company and customer feedback. 13 Pastures encourages you to periodically review this Statement to be informed of how 13 Pastures is protecting your information.</p>
+
+
+              <h3>Contact Information</h3>
+              <p>13 Pastures welcomes your questions or comments regarding this Statement of Privacy. If you believe that 13 Pastures has not adhered to this Statement, please contact 13 Pastures at:<br>
+              MTEK Gear, LLC<br>
+              2903 West New Haven Ave<br>
+              West Melbourne, FL 32904<br>
+              Email Address: 13pasturesinfo@gmail.com<br>
+              Telephone number:<br>
+              (888) 603-6033<br><br>
+
+              Effective as of January 01, 2017
+              </p>
             </div>
           </div>
         </div>
