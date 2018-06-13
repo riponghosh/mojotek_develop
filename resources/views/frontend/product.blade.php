@@ -95,7 +95,7 @@
                       <div class="fusion-rollover-content">
                         <span class="cart-loading"><a href="../../cart/index.html"><i class="fusion-icon-spinner"></i> <span class="view-cart">View Cart</span></a></span>
                         <div class="fusion-product-buttons">
-                          <a class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-quantity="1" href="index7e7e.html?add-to-cart=10047">Add to cart</a> <span class="fusion-rollover-linebreak">/</span> <a class="show_details_button" href="../../product/chocolate-mints/index.html">Details</a>
+                          <a class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-quantity="1" href="index7e7e.html?add-to-cart=10047">Add to cart</a> <span class="fusion-rollover-linebreak">/</span> <a class="show_details_button" href="{{url('/product-details/1')}}">Details</a>
                         </div>
                       </div>
                     </div>
@@ -121,7 +121,7 @@
                       <div class="fusion-rollover-content">
                         <span class="cart-loading"><a href="../../cart/index.html"><i class="fusion-icon-spinner"></i> <span class="view-cart">View Cart</span></a></span>
                         <div class="fusion-product-buttons">
-                          <a class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-quantity="1" href="index28bd.html?add-to-cart=21297">Add to cart</a> <span class="fusion-rollover-linebreak">/</span> <a class="show_details_button" href="../../product/spearmint-mints/index.html">Details</a>
+                          <a class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-quantity="1" href="index28bd.html?add-to-cart=21297">Add to cart</a> <span class="fusion-rollover-linebreak">/</span> <a class="show_details_button" href="{{url('/product-details/1')}}">Details</a>
                         </div>
                       </div>
                     </div>
@@ -147,7 +147,7 @@
                       <div class="fusion-rollover-content">
                         <span class="cart-loading"><a href="../../cart/index.html"><i class="fusion-icon-spinner"></i> <span class="view-cart">View Cart</span></a></span>
                         <div class="fusion-product-buttons">
-                          <a class="show_details_button" href="../../product/strawberry-mango-mints/index.html" style="float:none;max-width:none;text-align:center;">Details</a>
+                          <a class="show_details_button" href="{{url('/product-details/1')}}" style="float:none;max-width:none;text-align:center;">Details</a>
                         </div>
                       </div>
                     </div>
