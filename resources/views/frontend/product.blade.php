@@ -9,11 +9,11 @@
       <div class="fusion-page-title-row">
         <div class="fusion-page-title-wrapper">
           <div class="fusion-page-title-captions">
-            <h1 class="entry-title">Mints</h1>
+            <h1 class="entry-title">{{$category->name}}</h1>
           </div>
           <div class="fusion-page-title-secondary">
             <div class="fusion-breadcrumbs">
-              <span itemscope itemtype="http://data-vocabulary.org/Breadcrumb"><a href="../../index.html" itemprop="url"><span itemprop="title">Home</span></a></span><span class="fusion-breadcrumb-sep">/</span><span itemscope itemtype="http://data-vocabulary.org/Breadcrumb"><a href="../../shop/index.html" itemprop="url"><span itemprop="title">Shop</span></a></span><span class="fusion-breadcrumb-sep">/</span><span class="breadcrumb-leaf">Mints</span>
+              <span itemscope itemtype="http://data-vocabulary.org/Breadcrumb"><a href="../../index.html" itemprop="url"><span itemprop="title">Home</span></a></span><span class="fusion-breadcrumb-sep">/</span><span itemscope itemtype="http://data-vocabulary.org/Breadcrumb"><a href="../../shop/index.html" itemprop="url"><span itemprop="title">Shop</span></a></span><span class="fusion-breadcrumb-sep">/</span><span class="breadcrumb-leaf">{{$category->name}}</span>
             </div>
           </div>
         </div>
@@ -40,16 +40,15 @@
                   <div class="fusion-three-fourth fusion-layout-column fusion-spacing-yes" style="margin-top:0px;margin-bottom:20px;">
                     <div class="fusion-column-wrapper">
                       <div class="fusion-title title fusion-title-size-one" style="margin-top:0px;margin-bottom:31px;">
-                        <h1 class="title-heading-left">Mints</h1>
+                        <h1 class="title-heading-left">{{$category->name}}</h1>
                         <div class="title-sep-container">
                           <div class="title-sep sep-double sep-solid"></div>
                         </div>
                       </div>
                       <p></p>
-                      <p>Indulge yourself with a delicious new way to enjoy CBD. These tasty confections are one of the latest additions to our organically-grown hemp CBD products. Available in&nbsp;refreshing Spearmint, decadent Chocolate, and tropical Strawberry Mango, you can enjoy the benefits of a completely discreet CBD experience anywhere, any time.</p>
-                      <p>Not only are they delicious, but they are incredibly efficient ways to ingest CBD! Our mints are absorbed sublingually, like our tinctures. As you enjoy the delicious flavors and allow the mint to dissolve under your tongue, the CBD will be absorbed faster than if you had just eaten it, and with more convenience while you’re out and about.&nbsp; When used this way, the CBD is absorbed directly into your body through the mucous membrane under your tongue, instead of being absorbed through the digestive process. If you are seeking a faster way to get CBD in your body, this may be the ideal method for you.</p>
-                      <p>Many of us don’t want to take yet another pill, and these mints offer an effective, tasty alternative. This is a great way to make your wellness routine feel less cold and clinical, and more focused on enjoying your life! Our all-natural mints are a big hit with our friends and family, and we think you’ll love them too.</p>
-                      <p>Make your wellness routine a bit more flavorful with these CBD must-haves!</p>
+                      <p>
+                        <?php echo $category->description; ?>
+                      </p>
                       <p></p>
                       <div class="fusion-clearfix"></div>
                     </div>

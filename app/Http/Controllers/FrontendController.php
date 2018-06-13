@@ -4,6 +4,7 @@ namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
 use App\Product;
+use App\Category;
 
 class FrontendController extends Controller
 {
@@ -79,7 +80,8 @@ class FrontendController extends Controller
     public function productcategory($id)
     {
         $products=Product::with('category','subcategory','product_image','user')->where('category_id',$id)->get();
-        return view('frontend.product',compact('products'));
+        $category=Category::with('product')->where('id',$id)->first();
+        return view('frontend.product',compact('products','category'));
     }
     public function productsubcategory($id)
     {
